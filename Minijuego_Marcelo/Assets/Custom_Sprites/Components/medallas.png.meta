@@ -1,55 +1,55 @@
 fileFormatVersion: 2
-guid: 2dd36c6f47d384f7bad925cb2c529c0c
+guid: 1de1e17d34f324da78594a70418ab310
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -2810519746744826674
-    second: pixellab-medieval-stone-button-1772066144504_0
+      213: 626148433990810356
+    second: medallas_0
   - first:
-      213: -4942621509777290708
-    second: pixellab-medieval-stone-button-1772066144504_1
+      213: -8964549481932372974
+    second: medallas_1
   - first:
-      213: 4502145356297490287
-    second: pixellab-medieval-stone-button-1772066144504_2
+      213: 6451699637212821852
+    second: medallas_2
   - first:
-      213: 5040161560459572036
-    second: pixellab-medieval-stone-button-1772066144504_3
+      213: 1867117485908944494
+    second: medallas_3
   - first:
-      213: -2867224141901056824
-    second: pixellab-medieval-stone-button-1772066144504_4
+      213: -4002311950778627772
+    second: medallas_4
   - first:
-      213: 1868055188190416536
-    second: pixellab-medieval-stone-button-1772066144504_5
+      213: -2486629912459962170
+    second: medallas_5
   - first:
-      213: -7562060865596855479
-    second: pixellab-medieval-stone-button-1772066144504_6
+      213: -9119103885995367812
+    second: medallas_6
   - first:
-      213: -3294885402533408793
-    second: pixellab-medieval-stone-button-1772066144504_7
+      213: -5505723094874118097
+    second: medallas_7
   - first:
-      213: -8585117027402347963
-    second: pixellab-medieval-stone-button-1772066144504_8
+      213: -5551892405746822415
+    second: medallas_8
   - first:
-      213: -7009640703227427815
-    second: pixellab-medieval-stone-button-1772066144504_9
+      213: -5108925270997288803
+    second: medallas_9
   - first:
-      213: -2651021421750350817
-    second: pixellab-medieval-stone-button-1772066144504_10
+      213: 3500244828125302084
+    second: medallas_10
   - first:
-      213: -4913936270916841812
-    second: pixellab-medieval-stone-button-1772066144504_11
+      213: -7379796294361570383
+    second: medallas_11
   - first:
-      213: -12759526881377631
-    second: pixellab-medieval-stone-button-1772066144504_12
+      213: -5768714126171347287
+    second: medallas_12
   - first:
-      213: -1799145991268920515
-    second: pixellab-medieval-stone-button-1772066144504_13
+      213: -5682332815665107341
+    second: medallas_13
   - first:
-      213: 2427644241890839257
-    second: pixellab-medieval-stone-button-1772066144504_14
+      213: -3491408774760171142
+    second: medallas_14
   - first:
-      213: -896478729120266238
-    second: pixellab-medieval-stone-button-1772066144504_15
+      213: -5793865527895719009
+    second: medallas_15
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -184,13 +184,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: pixellab-medieval-stone-button-1772066144504_0
+      name: medallas_0
       rect:
         serializedVersion: 2
-        x: 17
-        y: 97
-        width: 30
-        height: 30
+        x: 14
+        y: 199
+        width: 36
+        height: 57
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -199,20 +199,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ec4cd0d5e270ff8d0800000000000000
-      internalID: -2810519746744826674
+      spriteID: 4fa70b8eea680b800800000000000000
+      internalID: 626148433990810356
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: pixellab-medieval-stone-button-1772066144504_1
+      name: medallas_1
       rect:
         serializedVersion: 2
-        x: 77
-        y: 97
-        width: 38
-        height: 30
+        x: 78
+        y: 199
+        width: 36
+        height: 57
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -221,20 +221,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c2a058a8ce7486bb0800000000000000
-      internalID: -4942621509777290708
+      spriteID: 214420e0eb5879380800000000000000
+      internalID: -8964549481932372974
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: pixellab-medieval-stone-button-1772066144504_2
+      name: medallas_2
       rect:
         serializedVersion: 2
-        x: 133
-        y: 98
-        width: 54
-        height: 29
+        x: 142
+        y: 199
+        width: 36
+        height: 57
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -243,20 +243,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f6f49412955da7e30800000000000000
-      internalID: 4502145356297490287
+      spriteID: c59369133aa098950800000000000000
+      internalID: 6451699637212821852
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: pixellab-medieval-stone-button-1772066144504_3
+      name: medallas_3
       rect:
         serializedVersion: 2
-        x: 196
-        y: 97
-        width: 56
-        height: 30
+        x: 206
+        y: 199
+        width: 36
+        height: 57
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -265,20 +265,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 44375cd3c3042f540800000000000000
-      internalID: 5040161560459572036
+      spriteID: e66e585067559e910800000000000000
+      internalID: 1867117485908944494
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: pixellab-medieval-stone-button-1772066144504_4
+      name: medallas_4
       rect:
         serializedVersion: 2
-        x: 17
-        y: 65
-        width: 30
-        height: 30
+        x: 10
+        y: 132
+        width: 44
+        height: 61
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -287,42 +287,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8c4309a85d29538d0800000000000000
-      internalID: -2867224141901056824
+      spriteID: 4490a856c7ee478c0800000000000000
+      internalID: -4002311950778627772
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: pixellab-medieval-stone-button-1772066144504_5
+      name: medallas_5
       rect:
         serializedVersion: 2
-        x: 65
-        y: 65
-        width: 62
-        height: 30
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 89e4ae8db4aace910800000000000000
-      internalID: 1868055188190416536
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pixellab-medieval-stone-button-1772066144504_6
-      rect:
-        serializedVersion: 2
-        x: 134
-        y: 65
+        x: 70
+        y: 128
         width: 52
-        height: 30
+        height: 65
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -331,20 +309,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 94b673055b92e0790800000000000000
-      internalID: -7562060865596855479
+      spriteID: 6c896f3f447bd7dd0800000000000000
+      internalID: -2486629912459962170
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: pixellab-medieval-stone-button-1772066144504_7
+      name: medallas_6
       rect:
         serializedVersion: 2
-        x: 194
-        y: 68
-        width: 60
-        height: 25
+        x: 142
+        y: 135
+        width: 36
+        height: 58
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -353,42 +331,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7ef4066fe273642d0800000000000000
-      internalID: -3294885402533408793
+      spriteID: c72ac5da45f627180800000000000000
+      internalID: -9119103885995367812
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: pixellab-medieval-stone-button-1772066144504_8
+      name: medallas_7
       rect:
         serializedVersion: 2
-        x: 17
-        y: 33
-        width: 30
-        height: 30
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 54a868aac898bd880800000000000000
-      internalID: -8585117027402347963
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pixellab-medieval-stone-button-1772066144504_9
-      rect:
-        serializedVersion: 2
-        x: 76
-        y: 33
+        x: 204
+        y: 134
         width: 40
-        height: 30
+        height: 59
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -397,20 +353,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 91482094be0c8be90800000000000000
-      internalID: -7009640703227427815
+      spriteID: f282d5a040eb793b0800000000000000
+      internalID: -5505723094874118097
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: pixellab-medieval-stone-button-1772066144504_10
+      name: medallas_8
       rect:
         serializedVersion: 2
-        x: 145
-        y: 32
-        width: 30
-        height: 31
+        x: 10
+        y: 69
+        width: 44
+        height: 60
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -419,20 +375,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f1c8e98001ea53bd0800000000000000
-      internalID: -2651021421750350817
+      spriteID: 1f2954ca547b3f2b0800000000000000
+      internalID: -5551892405746822415
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: pixellab-medieval-stone-button-1772066144504_11
+      name: medallas_9
       rect:
         serializedVersion: 2
-        x: 214
-        y: 38
-        width: 20
-        height: 20
+        x: 75
+        y: 71
+        width: 42
+        height: 58
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -441,20 +397,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: cae081b2ff03ecbb0800000000000000
-      internalID: -4913936270916841812
+      spriteID: d98b036c8837919b0800000000000000
+      internalID: -5108925270997288803
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: pixellab-medieval-stone-button-1772066144504_12
+      name: medallas_10
       rect:
         serializedVersion: 2
-        x: 18
-        y: 1
-        width: 28
-        height: 29
+        x: 139
+        y: 70
+        width: 42
+        height: 59
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -463,20 +419,64 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1a2cbb4274ba2dff0800000000000000
-      internalID: -12759526881377631
+      spriteID: 44d8e47402e539030800000000000000
+      internalID: 3500244828125302084
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: pixellab-medieval-stone-button-1772066144504_13
+      name: medallas_11
       rect:
         serializedVersion: 2
-        x: 73
+        x: 202
+        y: 71
+        width: 44
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b3a5dfbe52b59990800000000000000
+      internalID: -7379796294361570383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medallas_12
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 7
+        width: 42
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a667c2f01961ffa0800000000000000
+      internalID: -5768714126171347287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medallas_13
+      rect:
+        serializedVersion: 2
+        x: 68
         y: 0
-        width: 46
-        height: 31
+        width: 56
+        height: 65
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -485,20 +485,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d331953d0462807e0800000000000000
-      internalID: -1799145991268920515
+      spriteID: 37e6cb2196c4421b0800000000000000
+      internalID: -5682332815665107341
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: pixellab-medieval-stone-button-1772066144504_14
+      name: medallas_14
       rect:
         serializedVersion: 2
-        x: 146
-        y: 1
-        width: 28
-        height: 29
+        x: 138
+        y: 6
+        width: 44
+        height: 59
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -507,20 +507,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 9da0de66399b0b120800000000000000
-      internalID: 2427644241890839257
+      spriteID: a79fcb6b7360c8fc0800000000000000
+      internalID: -3491408774760171142
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: pixellab-medieval-stone-button-1772066144504_15
+      name: medallas_15
       rect:
         serializedVersion: 2
-        x: 214
-        y: 5
-        width: 20
-        height: 21
+        x: 203
+        y: 6
+        width: 42
+        height: 59
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -529,8 +529,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 208c71a78511f83f0800000000000000
-      internalID: -896478729120266238
+      spriteID: f930565effd089fa0800000000000000
+      internalID: -5793865527895719009
       vertices: []
       indices: 
       edges: []
@@ -539,7 +539,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 5e97eb03825dee720800000000000000
     internalID: 0
     vertices: []
     indices: 
@@ -549,22 +549,22 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      pixellab-medieval-stone-button-1772066144504_0: -2810519746744826674
-      pixellab-medieval-stone-button-1772066144504_1: -4942621509777290708
-      pixellab-medieval-stone-button-1772066144504_10: -2651021421750350817
-      pixellab-medieval-stone-button-1772066144504_11: -4913936270916841812
-      pixellab-medieval-stone-button-1772066144504_12: -12759526881377631
-      pixellab-medieval-stone-button-1772066144504_13: -1799145991268920515
-      pixellab-medieval-stone-button-1772066144504_14: 2427644241890839257
-      pixellab-medieval-stone-button-1772066144504_15: -896478729120266238
-      pixellab-medieval-stone-button-1772066144504_2: 4502145356297490287
-      pixellab-medieval-stone-button-1772066144504_3: 5040161560459572036
-      pixellab-medieval-stone-button-1772066144504_4: -2867224141901056824
-      pixellab-medieval-stone-button-1772066144504_5: 1868055188190416536
-      pixellab-medieval-stone-button-1772066144504_6: -7562060865596855479
-      pixellab-medieval-stone-button-1772066144504_7: -3294885402533408793
-      pixellab-medieval-stone-button-1772066144504_8: -8585117027402347963
-      pixellab-medieval-stone-button-1772066144504_9: -7009640703227427815
+      medallas_0: 626148433990810356
+      medallas_1: -8964549481932372974
+      medallas_10: 3500244828125302084
+      medallas_11: -7379796294361570383
+      medallas_12: -5768714126171347287
+      medallas_13: -5682332815665107341
+      medallas_14: -3491408774760171142
+      medallas_15: -5793865527895719009
+      medallas_2: 6451699637212821852
+      medallas_3: 1867117485908944494
+      medallas_4: -4002311950778627772
+      medallas_5: -2486629912459962170
+      medallas_6: -9119103885995367812
+      medallas_7: -5505723094874118097
+      medallas_8: -5551892405746822415
+      medallas_9: -5108925270997288803
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

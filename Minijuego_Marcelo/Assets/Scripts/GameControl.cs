@@ -7,7 +7,7 @@ public class GameControl : MonoBehaviour
 {
 
     public int timeToWin = 15; 
-    static public GameControl Instance; 
+    static public GameControl Instance; // Instancia de GameControl para usarse donde sea 
     public UIController uiController; 
     public int currentXP = 0; 
     public int xpForBronze = 300; 
@@ -66,11 +66,12 @@ public class GameControl : MonoBehaviour
         else
         {
             // El jugador perdió, mostrar tablet de derrota
-            uiController.ShowEndGameScreen(false, 0, "Ninguna"); 
+            uiController.ShowEndGameScreen(false, currentXP, "Ninguna"); 
         }
         
     }
 
+    // Función para reducir munición de jugador
     public void SpendAmmo()
     {
         if (GetCurrentAmmo() > 0)
@@ -85,12 +86,32 @@ public class GameControl : MonoBehaviour
         }
     }
 
+    // Función ara incrementar munición de jugador
+    public void AddAmmo(int amount)
+    {
+        int currentAmmo = GetCurrentAmmo(); 
+        int maxAmmo = 5; 
+
+        if (currentAmmo < maxAmmo)
+        {
+            int newAmmo = currentAmmo + amount; 
+
+            if (newAmmo > maxAmmo)
+            {
+                newAmmo = maxAmmo; // Si obtenemos más ammo del máximo, topar en máximo
+            }
+
+            PlayerPrefs.SetInt("Ammo", newAmmo); 
+            uiController.UpdateAmmoDisplay(); // Actualizamos Ammo
+        }
+    }
+
     public void CheckGameOver()
     {
         if(GetCurrentLives() == 0)
         {
             // El jugador perdió, mostrar tablet de derrota
-            uiController.ShowEndGameScreen(false, 0, "Ninguna");
+            uiController.ShowEndGameScreen(false, currentXP, "Ninguna");
         }
     }
 
@@ -106,13 +127,13 @@ public class GameControl : MonoBehaviour
         uiController.UpdateXPBar(); // Actualizamos "Tótems" en Barra
     }
 
-    public void AddCalculatedXP(float questionTime, bool isCorrect)
+    public int AddCalculatedXP(float questionTime, bool isCorrect)
     {
 
         if (!isCorrect) // Si pregunta se respondío incorrectamente, dar solo 50 totems
         {
             AddXP(50); 
-            return; 
+            return 50; 
         }
 
         // Si sacaron respuesta correcta, pueden obtener hasta 250 totems (dependiendo de tiempo de contestación)
@@ -126,7 +147,28 @@ public class GameControl : MonoBehaviour
         int finalScore = baseScore - penalty;
         AddXP(finalScore); // Agregar tótems finales correspondientes
 
+        AddAmmo(1); // Agregar munición por responder correctamente
 
+        return finalScore; 
+
+    }
+
+    public string GetMedal()
+    {
+        if (currentXP >= xpForGold)
+        {
+            return "Oro"; 
+        }
+        if (currentXP >= xpForSilver)
+        {
+            return "Plata"; 
+        }
+        if (currentXP >= xpForBronze)
+        {
+            return "Bronce"; 
+        }
+
+        return "Ninguna"; 
     }
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created

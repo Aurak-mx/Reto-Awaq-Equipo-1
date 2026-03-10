@@ -1,5 +1,6 @@
 using System.Collections;
 using System.Collections.Generic; // Necesario para filtrar preguntas pendientes
+using JetBrains.Annotations;
 using TMPro; // Necesario para editar los textos
 using UnityEngine;
 using UnityEngine.AI;
@@ -9,8 +10,14 @@ using UnityEngine.UI;
 public class UIController : MonoBehaviour
 {
     public GameObject questionPanel; // Game Object del panel que despliega preguntas
+    public GameObject optionsPanel; // Game Object del panel que tiene opciones de juego
     public Sprite spendLives; 
-    public Sprite spendAmmo; 
+    public Sprite spendAmmo; // Sprite que reemplaza a bola de nieve cuando se usa
+    public Sprite fillAmmo; // Sprite de bola de nieve "llena"
+    public Sprite medalGold; // Sprite medalla oro
+    public Sprite medalSilver; // Sprite medalla silver
+    public Sprite medalBronze; // Sprite medalla bronze
+    public Image finalMedalImage; // Imagen en el panel final
     public Image[] livesImage; // Imágenes de vidas
     public Image[] ammoImages; // Imágenes de munición
     int lives = 3; 
@@ -23,6 +30,7 @@ public class UIController : MonoBehaviour
     public TextMeshProUGUI questionUIText; 
     public TextMeshProUGUI leftButtonUIText; 
     public TextMeshProUGUI rightButtonUIText;
+    public TextMeshProUGUI notificationText; // Mensaje estatus respuesta
 
     // Datos locales para creación y gestión de preguntas
     public QuestionData[] questionsList; 
@@ -65,10 +73,22 @@ public class UIController : MonoBehaviour
     public void UpdateAmmoDisplay()
     {
         ammo = GameControl.Instance.GetCurrentAmmo(); 
-        if (ammo >= 0 && ammo < ammoImages.Length)
+
+        for (int i = 0; i < ammoImages.Length; i++)
         {
-            ammoImages[ammo].sprite = spendAmmo; 
+            if (i < ammo)
+            {
+                ammoImages[i].sprite = fillAmmo; // Sprite de fillAmmo 
+            }
+            else
+            {
+                ammoImages[i].sprite = spendAmmo; // Sprite de spendAmmo
+            }
         }
+        // if (ammo >= 0 && ammo < ammoImages.Length)
+        // {
+        //     ammoImages[ammo].sprite = spendAmmo; 
+        // }
     }
 
 
@@ -95,8 +115,10 @@ public class UIController : MonoBehaviour
             int randomIndex = Random.Range(0, pendingQuestions.Count); 
             currentQuestionIndex = pendingQuestions[randomIndex]; 
 
+            // Obtenemos información de pregunta actual
             QuestionData selectedQuestion = questionsList[currentQuestionIndex]; 
 
+            // Modificamos texto de elementos textMeshProUGUI
             questionUIText.text = selectedQuestion.questionText; 
             leftButtonUIText.text = selectedQuestion.leftAnswerText; 
             rightButtonUIText.text = selectedQuestion.rightAnswertext; 
@@ -111,6 +133,12 @@ public class UIController : MonoBehaviour
             Time.timeScale = 1f; 
             ShowEndGameScreen(true, 1000, "Platino (Pacifista)"); 
         }
+    }
+
+    public void OpenOptionsPanel()
+    {
+        optionsPanel.SetActive(true); // Abre el menú
+        Time.timeScale = 0f; // Pausa el juego
     }
 
     public void SelectLeftBtn()
@@ -134,15 +162,41 @@ public class UIController : MonoBehaviour
             Debug.Log("RESPUESTA CORRECTA"); 
             questionsList[currentQuestionIndex].isAnsweredCorrectly = true; 
             correct = true; 
+
+            // Modificar texto & color de texto a verde
+            // notificationText.text = "¡CORRECTO! +1 Bala"; 
+            // notificationText.color = Color.green; 
         }
         // Si respuesta es incorrecta, poner correct = false ( esto sirve para los tótems )
         else
         {
             Debug.Log("RESPUESTA INCORRECTA");
             correct = false; 
+
+            // Modificar texto & color de texto a rojo
+            // notificationText.text = "¡INCORRECTO! Penzlización de XP"; 
+            // notificationText.color = Color.red; 
         }
 
-        GameControl.Instance.AddCalculatedXP(timeTaken, correct); 
+        // Calculamos los tótems ganados y agregamos a usuario
+        int xpEarned = GameControl.Instance.AddCalculatedXP(timeTaken, correct); 
+
+        if (correct)
+        {
+            ShowNotificationText("¡CORRECTO! +" + xpEarned + " Tótems y +1 Bala", Color.green);
+        }
+        else
+        {
+            ShowNotificationText("¡INCORRECTO! +" + xpEarned + " Tótems de consolación", Color.red);
+        }
+
+        // Activamos visiblemente componente "notificationText"
+        // notificationText.gameObject.SetActive(true); 
+
+        // Desactivamos componente "notificationText" después de 2 segundos
+        // Invoke("HideNotification", 2f); 
+
+        // GameControl.Instance.AddCalculatedXP(timeTaken, correct); 
 
         CloseQuestionPanelAndResume(); 
     }
@@ -190,6 +244,12 @@ public class UIController : MonoBehaviour
 
     public void ShowEndGameScreen(bool isWin, int xpGained, string medal)
     {
+
+        if (notificationText != null)
+        {
+            notificationText.gameObject.SetActive(false);
+        }
+
         // Pausamos juego 
         Time.timeScale = 0f; 
 
@@ -205,7 +265,31 @@ public class UIController : MonoBehaviour
 
         // Adignamos valores de XP y Medalla
         endXpText.text = "XP Total: " + xpGained; 
-        endMedalText.text = "Medalla: " + medal; 
+
+        // Funcionamiento despliegue de Medalla
+
+        if (medal == "Oro")
+        {
+            finalMedalImage.sprite = medalGold; // Asignar a el final medal image la imágen de gold medal
+            finalMedalImage.gameObject.SetActive(true); // Despliegar medalla
+        }
+        else if ( medal == "Plata")
+        {
+            finalMedalImage.sprite = medalSilver; // Asignar a el final medal image la imágen de silver medal
+            finalMedalImage.gameObject.SetActive(true); // Despliegar medalla
+        }
+        else if ( medal == "Bronce")
+        {
+            finalMedalImage.sprite = medalBronze; // Asignar a el final medal image la imágen de bronze medal
+            finalMedalImage.gameObject.SetActive(true); // Despliegar medalla
+        }
+        else
+        {
+            finalMedalImage.gameObject.SetActive(false); // Sin medalla
+            endMedalText.text = "Medalla: " + "Ninguna"; 
+        }
+
+        
 
         // Activamos tableta de "endGamePanel"
         endGamePanel.SetActive(true); 
@@ -225,9 +309,33 @@ public class UIController : MonoBehaviour
         SceneManager.LoadScene("MainMenu"); 
     }
 
+    public void ClickResume()
+    {
+        optionsPanel.SetActive(false); // Cierra el menú
+        Time.timeScale = 1f; // Resume el juego
+    }
+
+    // Función para actualizar la XP Bar en el UI
     public void UpdateXPBar()
     {
         xpText.text = GameControl.Instance.currentXP + " / " + GameControl.Instance.xpForGold; 
+    }
+
+    public void ShowNotificationText(string message, Color msgColor)
+    {
+        // CancelInvoke("HideNotification"); Cancelamos por si había mensaje anterior
+
+        notificationText.text = message; 
+        notificationText.color = msgColor; 
+        notificationText.gameObject.SetActive(true); 
+
+        Invoke("HideNotification", 2f); // Desactivamos componente "notificationText" después de 2 segundos
+    }
+    
+    // Función para ocultar texto de notificación
+    private void HideNotification()
+    {
+        notificationText.gameObject.SetActive(false); 
     }
 
     // Update is called once per frame
