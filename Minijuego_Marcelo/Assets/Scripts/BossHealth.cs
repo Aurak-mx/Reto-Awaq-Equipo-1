@@ -42,10 +42,21 @@ public class BossHealth : MonoBehaviour
 
         Debug.Log(gameObject.name + " recibió daño. Vida: " + currentHealth); 
 
-        if (currentHealth <= 0)
+        if (currentHealth > 0) // Si es primer golpe a jefe, dar 50 totems
         {
-            Die(); 
+            GameControl.Instance.currentXP += 50; 
+            FindObjectOfType<UIController>().UpdateXPBar(); // Actualiza UI Tótem bar
+
+            FindObjectOfType<UIController>().ShowNotificationText("+50 Tótems", Color.yellow); // Mensaje Tótems
         }
+        else // Si es segundo golpe a jefe, dar 50 totems
+        {
+            GameControl.Instance.currentXP += 100; 
+            FindObjectOfType<UIController>().UpdateXPBar(); // Actualiza UI Tótem bar
+
+            FindObjectOfType<UIController>().ShowNotificationText("¡ELIMINADA! +100 Tótems", Color.red); // Mensaje Tótems
+            Die(); 
+        } 
     }
 
     void StopHurt()
@@ -67,8 +78,11 @@ public class BossHealth : MonoBehaviour
         {
             Debug.Log("Ganaste! Todas las plantas fueron eliminadas!"); 
 
+            int finalXP = GameControl.Instance.currentXP;  // Obtener el xp final
+            string finalMedal = GameControl.Instance.GetMedal(); // Obtener la medalla correspondiente
+
             // Buscamos UIController y mandamos datos de "Victoria", 500 XP, y Medalla de "Oro"
-            FindObjectOfType<UIController>().ShowEndGameScreen(true, 500, "Oro"); 
+            FindObjectOfType<UIController>().ShowEndGameScreen(true, finalXP, finalMedal); 
         }
 
         Destroy(gameObject); // Destruir planta que perdio sus vidas
