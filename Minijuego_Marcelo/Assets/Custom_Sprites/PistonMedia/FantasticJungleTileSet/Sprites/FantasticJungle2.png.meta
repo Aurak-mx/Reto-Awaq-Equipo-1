@@ -1,0 +1,2020 @@
+fileFormatVersion: 2
+guid: 974acaf1805e5359cb1fc538f38d6cc5
+AssetOrigin:
+  serializedVersion: 1
+  productId: 260235
+  packageName: Fantastic Jungle Pixel Art Set
+  packageVersion: 1.1
+  assetPath: Assets/PistonMedia/FantasticJungleTileSet/Sprites/FantasticJungle2.png
+  uploadId: 828944
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Fantastic_flower
+  - first:
+      213: 21300002
+    second: Fantastic_Grass01
+  - first:
+      213: 21300004
+    second: Fantastic_HayPole
+  - first:
+      213: 21300006
+    second: Fantastic_BlueStone01
+  - first:
+      213: 21300008
+    second: Fantastic_BlueStone02
+  - first:
+      213: 21300010
+    second: Fantastic_Tree-Spruce
+  - first:
+      213: 21300012
+    second: Fantastic_Tree-Pine
+  - first:
+      213: 21300014
+    second: Fantastic_WoodenCart
+  - first:
+      213: 21300016
+    second: Fantastic_BackgroundTree06
+  - first:
+      213: 21300018
+    second: Fantastic_GoldenChest
+  - first:
+      213: 21300020
+    second: Fantastic_WoodenCrate
+  - first:
+      213: 21300022
+    second: Fantastic_Bridge
+  - first:
+      213: 21300024
+    second: Fantastic_SnowBall-NoBorders
+  - first:
+      213: 21300026
+    second: Fantastic_BackgroundTree05
+  - first:
+      213: 21300028
+    second: Fantastic_OldWell
+  - first:
+      213: 21300030
+    second: FantasticTileSet_Items_15
+  - first:
+      213: 21300032
+    second: Fantastic_SnowBall01
+  - first:
+      213: 21300034
+    second: Fantastic_SnowBall03
+  - first:
+      213: 21300036
+    second: Fantastic_BackgroundTree01
+  - first:
+      213: 21300038
+    second: Fantastic_BackgroundTree04
+  - first:
+      213: 21300040
+    second: Fantastic_Tree-Round
+  - first:
+      213: 21300042
+    second: Fantastic_Apple
+  - first:
+      213: 21300044
+    second: Fantastic_BackgroundTree02
+  - first:
+      213: 21300046
+    second: Fantastic_WoodenBarrel
+  - first:
+      213: 21300048
+    second: Fantastic_BackgroundTree03
+  - first:
+      213: 21300050
+    second: Fantastic_Tree-Snowy
+  - first:
+      213: 21300052
+    second: Fantastic_Target
+  - first:
+      213: 21300054
+    second: Fantastic_Wooden-Stoll
+  - first:
+      213: 21300056
+    second: Cactus-Planted-round
+  - first:
+      213: 21300058
+    second: Fantastic_BridgeWoodenPilars
+  - first:
+      213: 21300060
+    second: Fantastic_Tree-Spruce-Snowy
+  - first:
+      213: 21300062
+    second: Fantastic_Tree-Leafs-Only
+  - first:
+      213: 21300064
+    second: Fantastic_Cactus01
+  - first:
+      213: 21300066
+    second: Fantastic_Cactus-Planted
+  - first:
+      213: 21300068
+    second: Fantastic_Cactus02
+  - first:
+      213: 21300070
+    second: Fantastic_Cactus03
+  - first:
+      213: 21300072
+    second: Tree-Stump-Snowy
+  - first:
+      213: 21300074
+    second: Fantastic_Cactus-tiny
+  - first:
+      213: 21300076
+    second: Tree-Stump-Snowy02
+  - first:
+      213: 21300078
+    second: Fantastic_Stone-Gray01
+  - first:
+      213: 21300080
+    second: Fantastic_Stone-Desert
+  - first:
+      213: 21300082
+    second: Fantastic_Well-Snowy-Roof
+  - first:
+      213: 21300084
+    second: Fantastic_Stone-Gray03
+  - first:
+      213: 21300086
+    second: Fantastic_Desert-Stone02
+  - first:
+      213: 21300088
+    second: Fantastic_Bush
+  - first:
+      213: 21300090
+    second: Fantastic_Stone-Gray04
+  - first:
+      213: 21300092
+    second: Fantastic_Barrel-Wooden-Small
+  - first:
+      213: 21300094
+    second: Fantastic_GreenPlants
+  - first:
+      213: 21300096
+    second: FantasticTileSet_Items_48
+  - first:
+      213: 21300098
+    second: Fantastic_Grass02
+  - first:
+      213: 21300100
+    second: Fantastic_Flower02
+  - first:
+      213: 21300102
+    second: Fantastic_Grass03
+  - first:
+      213: 21300104
+    second: Fantastic_BridgePilar
+  - first:
+      213: 21300106
+    second: Fantastic_AppleSmall
+  - first:
+      213: 21300108
+    second: Fantastic_WoodenBridge
+  - first:
+      213: 21300110
+    second: Fantastic_Stone-Gray02
+  - first:
+      213: 21300112
+    second: Fantastic_Stone-Gray05
+  - first:
+      213: 21300114
+    second: Fantastic_Grass-Snowy
+  - first:
+      213: 21300116
+    second: Fantastic_Stone-Purple
+  - first:
+      213: 21300118
+    second: Fantastic_Stone-Purple02
+  - first:
+      213: 21300120
+    second: Fantastic_SnowBall02
+  - first:
+      213: 21300122
+    second: Fantastic_BackgroundTree07
+  - first:
+      213: 6149696864915518616
+    second: FantasticJungle_PalmTree_01
+  - first:
+      213: -1273514989575364088
+    second: FantasticJungle_PalmTree_02
+  - first:
+      213: -463701448141056138
+    second: FantasticJungle_PalmTree_03
+  - first:
+      213: -2716613515677467769
+    second: FantasticJungle_Grass02
+  - first:
+      213: 3620471572812572297
+    second: FantasticJungle_Flower_01
+  - first:
+      213: 5320965414576586496
+    second: FantasticJungle_Grass03
+  - first:
+      213: 3405041474884877376
+    second: FantasticJungle_Flower02
+  - first:
+      213: 1593423440650543202
+    second: FantasticJungle_Items_7
+  - first:
+      213: -5977197629532050628
+    second: FantasticJungle_Items_8
+  - first:
+      213: -3345364947954145578
+    second: FantasticJungle_Items_9
+  - first:
+      213: -4480329383336739990
+    second: FantasticJungle_Items_10
+  - first:
+      213: 2231127642106146292
+    second: FantasticJungle_Items_11
+  - first:
+      213: 1369950488097136593
+    second: FantasticJungle_Items_12
+  - first:
+      213: 6704229344986257217
+    second: FantasticJungle_Stones01
+  - first:
+      213: 3098247020715276882
+    second: FantasticJungle_Items_14
+  - first:
+      213: 2821979529993561506
+    second: FantasticJungle_Items_15
+  - first:
+      213: 2075183773056338564
+    second: FantasticJungle_Apple02
+  - first:
+      213: -7768892300675384345
+    second: FantasticJungle_Items_17
+  - first:
+      213: 7626176846648348220
+    second: FantasticJungle_Flower04
+  - first:
+      213: -2668286869371059294
+    second: FantasticJungle_Items_19
+  - first:
+      213: -1213761442685085917
+    second: FantasticJungle_PalmTree_04
+  - first:
+      213: 5709770886241954647
+    second: FantasticJungle_Stones02
+  - first:
+      213: 2094593581455055536
+    second: FantasticJungle_Items_22
+  - first:
+      213: -6236366149229242276
+    second: FantasticJungle_Apple01
+  - first:
+      213: -7978938407509295736
+    second: FantasticJungle_Grass08
+  - first:
+      213: -3198981626024657053
+    second: FantasticJungle_Grass09
+  - first:
+      213: -5289318647706126012
+    second: FantasticJungle_Stones03
+  - first:
+      213: 2036677159535817761
+    second: FantasticJungle_Items_27
+  - first:
+      213: -3429580718049139555
+    second: FantasticJungle_Grass06
+  - first:
+      213: 835580957662174443
+    second: FantasticJungle_Grass07
+  - first:
+      213: 9150490054737455257
+    second: FantasticJungle_Tree01
+  - first:
+      213: -1013517206414891277
+    second: FantasticJungle_Stool
+  - first:
+      213: 6254844720958448880
+    second: FantasticJungle_Items_32
+  - first:
+      213: -4504688341447961024
+    second: FantasticJungle_Liana01
+  - first:
+      213: -8767553559299545900
+    second: FantasticJungle_Liana03
+  - first:
+      213: 6202831804221559224
+    second: FantasticJungle_Liana04
+  - first:
+      213: -1545235896999763252
+    second: FantasticJungle_Liana05
+  - first:
+      213: 3198476856622043028
+    second: FantasticJungle_Liana06
+  - first:
+      213: 5798235877041112691
+    second: FantasticJungle_Liana07
+  - first:
+      213: -8663852463015061046
+    second: FantasticJungle_Liana08
+  - first:
+      213: 965835283704872225
+    second: FantasticJungle_Items_40
+  - first:
+      213: -5691649294559604551
+    second: FantasticJungle_Bridge
+  - first:
+      213: -8160366596510291618
+    second: FantasticJungle_Items_42
+  - first:
+      213: -2700067151251124715
+    second: FantasticJungle_Items_43
+  - first:
+      213: 2858966583404683625
+    second: FantasticJungle_Items_44
+  - first:
+      213: -8768426239729770747
+    second: FantasticJungle_StonesBlue_01
+  - first:
+      213: 5756329830602376527
+    second: FantasticJungle_Tree02
+  - first:
+      213: -8715118019005452646
+    second: FantasticJungle_Liana09
+  - first:
+      213: 400015350419027993
+    second: FantasticJungle_Liana009
+  - first:
+      213: 7403258699102110604
+    second: FantasticJungle_StonesBlue_02
+  - first:
+      213: -3652266598458194127
+    second: FantasticJungle_Bridge03
+  - first:
+      213: 8047076089146556453
+    second: FantasticJungle_Flower12
+  - first:
+      213: -5940427614177841694
+    second: FantasticJungle_Flower13
+  - first:
+      213: -908649250433347363
+    second: FantasticJungle_Grass13
+  - first:
+      213: -5350871505489567754
+    second: FantasticJungle_Grass11
+  - first:
+      213: -8578873940544563532
+    second: FantasticJungle_Flower09
+  - first:
+      213: -297610317210233737
+    second: FantasticJungle_Flower08
+  - first:
+      213: -2764863223230158899
+    second: FantasticJungle_Castle_pilar01
+  - first:
+      213: 1547198663126760120
+    second: FantasticJungle_liano10
+  - first:
+      213: 1984619582229459811
+    second: FantasticJungle_bush01
+  - first:
+      213: -5753150125879561996
+    second: FantasticJungle_bush02
+  - first:
+      213: 8030899954359231419
+    second: FantasticJungle_bush03
+  - first:
+      213: 7280265538071022811
+    second: FantasticJungle_HangingPlant_02
+  - first:
+      213: 6280745941197880201
+    second: FantasticJungle_HangingPlant_01
+  - first:
+      213: -3268732076155398683
+    second: FantasticJungle_Castle01
+  - first:
+      213: -7938914076072499754
+    second: FantasticJungle_Tree03
+  - first:
+      213: -8453951247646965426
+    second: FantasticJungle_Flower1
+  - first:
+      213: -6653005559987298620
+    second: FantasticJungle_Flower11
+  - first:
+      213: -8356394164106342532
+    second: FantasticJungle_Castle_Pilar02
+  - first:
+      213: -2901731223092935053
+    second: FantasticJungle_Gat
+  - first:
+      213: 2740758370099808330
+    second: FantasticJungle_Castle_Left
+  - first:
+      213: 5071402825741591595
+    second: FantasticJungle_Castle_BridgeGrande
+  - first:
+      213: 857724833665114053
+    second: FantasticJungle_CastleWall
+  - first:
+      213: 4446495511596916902
+    second: FantasticJungle_Gate
+  - first:
+      213: -4349638675266619834
+    second: FantasticJungle_Castle_Window
+  - first:
+      213: -6179723782596669476
+    second: FantasticJungle_CastleRightTop
+  - first:
+      213: -1154163258727528101
+    second: FantasticJungle_Castle_RightBottom
+  - first:
+      213: 7233389320205566960
+    second: FantasticJungle_Grass01
+  - first:
+      213: -287259281003407426
+    second: FantasticJungle_Grass04
+  - first:
+      213: 5947580977101410441
+    second: FantasticJungle_Liana02
+  - first:
+      213: -7276574860625566985
+    second: FantasticJungle_Castle_Bricks
+  - first:
+      213: 5769187291652034311
+    second: FantasticJungle_Platform
+  - first:
+      213: 8570684510815285200
+    second: FantasticJungle_Stones04
+  - first:
+      213: -1314481217938045889
+    second: FantasticJungle_Stones05
+  - first:
+      213: -5469713700382847066
+    second: FantasticJungle_Muddy
+  - first:
+      213: -5676989706825893798
+    second: FantasticJungle_Grass14
+  - first:
+      213: -8865543764235436390
+    second: FantasticJungle_TreeBranch_01
+  - first:
+      213: -2951028043206237612
+    second: FantasticJungle_TreeBranch_02
+  - first:
+      213: -5094041852703404766
+    second: FantasticJungle_Castle_Stairs
+  - first:
+      213: -8112880988058832036
+    second: FantasticJungle_Ladders
+  - first:
+      213: 9194270838504256034
+    second: FantasticJungle_TreeBranch_15
+  - first:
+      213: -6009094943898546636
+    second: FantasticJungle_CastleBgSide
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 4
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: JungleHangingPlant
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 474
+        width: 36
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5277778, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8e35953873887691a7776b4204502a8
+      internalID: 281946869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleFrontTree
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 445
+        width: 47
+        height: 66
+      alignment: 9
+      pivot: {x: 0.48936167, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aa4dd612486ce44181c2443f430a4cb
+      internalID: 1646603274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneAltar
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 494
+        width: 65
+        height: 17
+      alignment: 9
+      pivot: {x: 0.50769234, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e36ce30430817b76db39bd54230b769a
+      internalID: -1132848866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreeTrunk
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 483
+        width: 27
+        height: 28
+      alignment: 9
+      pivot: {x: 0.4074074, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61c9edf1ee8e670c6adc9a951000bddc
+      internalID: 1841269663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JunglePilar
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 431
+        width: 28
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08b0e062736a84155819f964f1a41535
+      internalID: 870594025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneWithCave
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 423
+        width: 140
+        height: 88
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef915550d7e783116a4d39ba9f27b427
+      internalID: -1888693028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodTrash
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 481
+        width: 11
+        height: 11
+      alignment: 9
+      pivot: {x: 0.45454547, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7af0c7fd3a9456d0d8e9268328ff7911
+      internalID: -244575629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneBig
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 447
+        width: 31
+        height: 46
+      alignment: 9
+      pivot: {x: 0.516129, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02bc9ae2707b6a90884de1526c45bdb8
+      internalID: -1946147951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassTileDecoration
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 428
+        width: 64
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65e7b4be7b2f967d682c40404ebd8255
+      internalID: 727619795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodenBridge
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 431
+        width: 49
+        height: 14
+      alignment: 9
+      pivot: {x: 0.5102041, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d6a125e08c054d7c93e57f5de4e19c4
+      internalID: 479149780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlantPot
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 396
+        width: 16
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4814815}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c49e64a9cdaa11f5bdd78104a7e2f2c
+      internalID: -639336996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodSmall
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 396
+        width: 10
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e3eae217907ab6308b6de90e92677c5
+      internalID: -1229099585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockSmall
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 396
+        width: 11
+        height: 6
+      alignment: 9
+      pivot: {x: 0.45454547, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52f47c9124abc1cfaad7dce9fbf99497
+      internalID: -1462564042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockMedium
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 396
+        width: 26
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d944da56662303418520d6b340e1538
+      internalID: -1143720772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenPlan
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 396
+        width: 30
+        height: 32
+      alignment: 9
+      pivot: {x: 0.4666667, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 413833b720aa951258974961c20dbca1
+      internalID: 1210930915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleTree01
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 304
+        width: 86
+        height: 91
+      alignment: 9
+      pivot: {x: 0.44186047, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24bd70dfa5772e112ba7904af649700e
+      internalID: 1315278949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirPlaneBrokenPart
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 356
+        width: 26
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ee9913287563412881567ec5800e021
+      internalID: 258365659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterRef
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 356
+        width: 12
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c824f0df0f09d57c28169dbb41451b9d
+      internalID: -1431977870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirPlaneCrashed
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 303
+        width: 73
+        height: 51
+      alignment: 9
+      pivot: {x: 0.49315068, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bf7593679de463fd826f3e2ee30847b
+      internalID: 1772208711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jeep
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 303
+        width: 69
+        height: 33
+      alignment: 9
+      pivot: {x: 0.47826087, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35a98ef7c68c43bad8afcce7901dc698
+      internalID: 1737768931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirPlane
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 303
+        width: 126
+        height: 43
+      alignment: 9
+      pivot: {x: 0.4603175, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 578fd62bcf1371fb18aa016a393cb194
+      internalID: 1809881499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleTreeFront
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 155
+        width: 83
+        height: 114
+      alignment: 9
+      pivot: {x: 0.49397588, y: 0.00877193}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5943864953f66f298899391b2f3d3062
+      internalID: -14062754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FantasticJungle2_24
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 173
+        width: 54
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.47457626}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cede260ebc94f249281f94976aa779a8
+      internalID: -1156864493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PyramidBig
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 0
+        width: 342
+        height: 184
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59bed6d72e492e39db4a715a378b4649
+      internalID: -331638255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungelPlantBush
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 102
+        width: 24
+        height: 19
+      alignment: 9
+      pivot: {x: 0.5416667, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 928d7468789058106837ba910a7fdb8a
+      internalID: -1704212772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FantasticJungle2_27
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 102
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e04f38018ae0369318f741b7437835c3
+      internalID: 2119344111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FantasticJungle2_28
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 118
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4372f733db978421280ec7aced4b6ba6
+      internalID: 678382277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FantasticJungle2_29
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 102
+        width: 16
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b387a30a0187ee1ff9eebbcd251a4730
+      internalID: -614443554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FantasticJungle2_30
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 101
+        width: 9
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5555556, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aafcf070522052f393ea91f302b2475
+      internalID: 511911311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FantasticJungle2_31
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 101
+        width: 8
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e835cf0c36badc3b2b64b65963c2bf7d
+      internalID: -2126332239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FantasticJungle2_32
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 102
+        width: 19
+        height: 5
+      alignment: 9
+      pivot: {x: 0.5263158, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46579b5f30e41fb2997c464efbdd0fae
+      internalID: 1277977141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FantasticJungle2_33
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 101
+        width: 9
+        height: 8
+      alignment: 9
+      pivot: {x: 0.44444445, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d78cd4de1a4cf577b31667b14d371bd
+      internalID: -1171377844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PyramidBrokenPilar
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 72
+        width: 48
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f3c5cbe828cefc7ba3968bff2449199
+      internalID: 1606728100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FantasticJungle2_35
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 72
+        width: 29
+        height: 26
+      alignment: 9
+      pivot: {x: 0.51724136, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9ee60c5bb2d336dd9c13e912bb188a4
+      internalID: 1589274951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FantasticJungle2_36
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 72
+        width: 18
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4651912dceff796b8009786db3d6226
+      internalID: -1682451751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleWaterTile
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 489
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cac29de9ce0e4c294addbd21726a86f1
+      internalID: -1061501949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleWaterTileTop1
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 480
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aaf09a07cd6ebfa7a6fd8c4be779812
+      internalID: 643016720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleWaterTileTop2
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 480
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b94d14ca1844dc0f1bca6d3df4faa89b
+      internalID: -795214780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleWaterTileTop3
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 480
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e15dcb1d57feb18fb27967eac9457b0
+      internalID: -1436547679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleWaterTileTop4
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 480
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 453164a7e57043c0da07460a2364ef10
+      internalID: -1751664831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleWaterTileTop5
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 480
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae9286b4e29dac7e2ae3aa4635b26979
+      internalID: 1505404597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleWaterTileTop6
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 480
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2376bbd920ed90c2f8ea7691342dd8f3
+      internalID: 475396088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleWaterTileTop7
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 480
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 770a949729892db11be55ef34cc8bae6
+      internalID: -372963552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleWaterTileTopFoam1
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 496
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e16e48fc2930547bba632894e9044fe
+      internalID: 1868635743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleWaterTileTopFoam2
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 496
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d843e846968f2e19c9e271213de03ddd
+      internalID: 179051903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleWaterTileTopFoam3
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 496
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b36ce8cc7beb4e47a94585e2d66560a
+      internalID: 500363141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleWaterTileTopFoam4
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 496
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c02f3b05da3e3a14848d35d74b35ee5
+      internalID: 277979527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleWaterTileTopFoam5
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 496
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6510e2ca49e6d274199df0e749ae7490
+      internalID: -1435559517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleWaterTileTopFoam6
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 496
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5e7fb5d6b3fac9ff8a7d09f03c382fc
+      internalID: 468256482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleWaterTileTopFoam7
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 496
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82ecb41e4f6c2bf4f861bfddcf87cb35
+      internalID: -103707365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleWaterParticle1
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 459
+        width: 16
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d26c93ce838356535bd1d203458f6e08
+      internalID: -882751172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleWaterParticle2
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 459
+        width: 16
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26dd45082a3cc9865aa6b40213dd0197
+      internalID: -174769528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleWaterParticle3
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 459
+        width: 16
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb0a98f5c39f681dbadb1eaa39407e55
+      internalID: -768785268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleWaterParticle4
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 459
+        width: 16
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d2c977491c90d1ada16b760dae35db6
+      internalID: -1222955886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleWaterParticle5
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 459
+        width: 16
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e560332e55e7627c59f1b8a1f7a6968d
+      internalID: -1725157243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleWaterParticle6
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 459
+        width: 16
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad68212ab1092365fb8550412d2fca78
+      internalID: -1825791728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleWaterParticle7
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 459
+        width: 16
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba09eb1bfcc7ec379a2103d4fb34aeda
+      internalID: -598520310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FantasticJungle2_0
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 226
+        width: 56
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4864865}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbf2de291908d9bd3bf776fe65f5a3ea
+      internalID: -181251767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FantasticJungle2_1
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 226
+        width: 11
+        height: 9
+      alignment: 9
+      pivot: {x: 0.45454547, y: 0.44444445}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bed115558d68ff26397f1b6bcbecd0ac
+      internalID: 979572676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneWithoutCave
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 310
+        width: 141
+        height: 109
+      alignment: 9
+      pivot: {x: 0.50354606, y: 0.49541283}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cd7ac2f80642da8cb0dd07f03c26f9b
+      internalID: 171981748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 4873d429b5a17964aae362fb40a69913
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      AirPlane: 1809881499
+      AirPlaneBrokenPart: 258365659
+      AirPlaneCrashed: 1772208711
+      CharacterRef: -1431977870
+      FantasticJungle2_0: -181251767
+      FantasticJungle2_1: 979572676
+      FantasticJungle2_18: 241281342
+      FantasticJungle2_23: -1035211864
+      FantasticJungle2_24: -1156864493
+      FantasticJungle2_27: 2119344111
+      FantasticJungle2_28: 678382277
+      FantasticJungle2_29: -614443554
+      FantasticJungle2_30: 511911311
+      FantasticJungle2_31: -2126332239
+      FantasticJungle2_32: 1277977141
+      FantasticJungle2_33: -1171377844
+      FantasticJungle2_35: 1589274951
+      FantasticJungle2_36: -1682451751
+      GrassTileDecoration: 727619795
+      GreenPlan: 1210930915
+      Jeep: 1737768931
+      JungelPlantBush: -1704212772
+      JungleFrontTree: 1646603274
+      JungleHangingPlant: 281946869
+      JunglePilar: 870594025
+      JungleTree01: 1315278949
+      JungleTreeFront: -14062754
+      JungleWaterParticle1: -882751172
+      JungleWaterParticle2: -174769528
+      JungleWaterParticle3: -768785268
+      JungleWaterParticle4: -1222955886
+      JungleWaterParticle5: -1725157243
+      JungleWaterParticle6: -1825791728
+      JungleWaterParticle7: -598520310
+      JungleWaterTile: -1061501949
+      JungleWaterTileTop1: 643016720
+      JungleWaterTileTop2: -795214780
+      JungleWaterTileTop3: -1436547679
+      JungleWaterTileTop4: -1751664831
+      JungleWaterTileTop5: 1505404597
+      JungleWaterTileTop6: 475396088
+      JungleWaterTileTop7: -372963552
+      JungleWaterTileTopFoam1: 1868635743
+      JungleWaterTileTopFoam2: 179051903
+      JungleWaterTileTopFoam3: 500363141
+      JungleWaterTileTopFoam4: 277979527
+      JungleWaterTileTopFoam5: -1435559517
+      JungleWaterTileTopFoam6: 468256482
+      JungleWaterTileTopFoam7: -103707365
+      PlantPot: -639336996
+      PyramidBig: -331638255
+      PyramidBrokenPilar: 1606728100
+      RockMedium: -1143720772
+      RockSmall: -1462564042
+      StoneAltar: -1132848866
+      StoneBig: -1946147951
+      StoneWithCave: -1888693028
+      StoneWithoutCave: -1125727474
+      TreeTrunk: 1841269663
+      WoodSmall: -1229099585
+      WoodTrash: -244575629
+      WoodenBridge: 479149780
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

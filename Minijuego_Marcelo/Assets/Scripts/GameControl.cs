@@ -10,9 +10,11 @@ public class GameControl : MonoBehaviour
     static public GameControl Instance; // Instancia de GameControl para usarse donde sea 
     public UIController uiController; 
     public int currentXP = 0; 
-    public int xpForBronze = 300; 
-    public int xpForSilver = 600; 
-    public int xpForGold = 1000; 
+    public int xpForBronze = 600; 
+    public int xpForSilver = 850; 
+    public int xpForGold = 1200; 
+
+    public SFXManager sfxManager; // Instancia de SFXManager para generar sonido en sistema
 
     // Función que corre el momento que inicia el juego
     public void Awake()
@@ -31,6 +33,10 @@ public class GameControl : MonoBehaviour
         if (uiController == null)
         {
             uiController = FindAnyObjectByType<UIController>(); 
+        }
+        if (sfxManager == null)
+        {
+            sfxManager = FindAnyObjectByType<SFXManager>(); 
         }
         // timeToWin = PlayerPrefs.GetInt("TimeToWin"); 
         // init(); 
@@ -119,10 +125,6 @@ public class GameControl : MonoBehaviour
     public void AddXP(int amount)
     {
         currentXP += amount; 
-        if(currentXP > xpForGold)
-        {
-            currentXP = xpForGold; 
-        }
 
         uiController.UpdateXPBar(); // Actualizamos "Tótems" en Barra
     }

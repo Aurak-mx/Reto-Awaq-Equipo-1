@@ -385,7 +385,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 0}
+  m_Sprite: {fileID: 2562835485693983662, guid: b21835aff5602461092049a1d5a45650, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -407,7 +407,7 @@ GameObject:
   - component: {fileID: 2830981949562037184}
   - component: {fileID: 4221845069080510419}
   m_Layer: 0
-  m_Name: Image_Green
+  m_Name: Image_Orange
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -429,8 +429,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 1.95, y: 0.45}
+  m_AnchoredPosition: {x: 0.00000011362, y: 0.00000019465}
+  m_SizeDelta: {x: 2, y: 0.5}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &2830981949562037184
 CanvasRenderer:
@@ -460,7 +460,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 5540863391913330354, guid: 4f5509baa8e2758179b06ef35924a05e, type: 3}
+  m_Sprite: {fileID: 4830899653437728787, guid: b21835aff5602461092049a1d5a45650, type: 3}
   m_Type: 3
   m_PreserveAspect: 0
   m_FillCenter: 1

@@ -1,0 +1,572 @@
+fileFormatVersion: 2
+guid: 204cded98528c4c039a227e7295fb370
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4296450420982700568
+    second: pixellab-A-professional-16-bit-pixel-ar-1773189375069_0
+  - first:
+      213: -326763955572669746
+    second: pixellab-A-professional-16-bit-pixel-ar-1773189375069_1
+  - first:
+      213: -6914663128780559016
+    second: pixellab-A-professional-16-bit-pixel-ar-1773189375069_2
+  - first:
+      213: 5162424003095440187
+    second: pixellab-A-professional-16-bit-pixel-ar-1773189375069_3
+  - first:
+      213: -7335731765517179359
+    second: pixellab-A-professional-16-bit-pixel-ar-1773189375069_4
+  - first:
+      213: -5150647209488215476
+    second: pixellab-A-professional-16-bit-pixel-ar-1773189375069_5
+  - first:
+      213: 4083742916786359107
+    second: pixellab-A-professional-16-bit-pixel-ar-1773189375069_6
+  - first:
+      213: -44176277608451956
+    second: pixellab-A-professional-16-bit-pixel-ar-1773189375069_7
+  - first:
+      213: 6581272198639596509
+    second: pixellab-A-professional-16-bit-pixel-ar-1773189375069_8
+  - first:
+      213: -2540941098243371935
+    second: pixellab-A-professional-16-bit-pixel-ar-1773189375069_9
+  - first:
+      213: -1991031061471851438
+    second: pixellab-A-professional-16-bit-pixel-ar-1773189375069_10
+  - first:
+      213: 4830140169866666087
+    second: pixellab-A-professional-16-bit-pixel-ar-1773189375069_11
+  - first:
+      213: 2775751455478710803
+    second: pixellab-A-professional-16-bit-pixel-ar-1773189375069_12
+  - first:
+      213: 5460100546401470763
+    second: pixellab-A-professional-16-bit-pixel-ar-1773189375069_13
+  - first:
+      213: 1312714627273319624
+    second: pixellab-A-professional-16-bit-pixel-ar-1773189375069_14
+  - first:
+      213: 2521025780600777069
+    second: pixellab-A-professional-16-bit-pixel-ar-1773189375069_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pixellab-A-professional-16-bit-pixel-ar-1773189375069_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 191
+        width: 61
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81a50c1f4ee00ab30800000000000000
+      internalID: 4296450420982700568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixellab-A-professional-16-bit-pixel-ar-1773189375069_1
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 128
+        width: 55
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec280b6e9e9177bf0800000000000000
+      internalID: -326763955572669746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixellab-A-professional-16-bit-pixel-ar-1773189375069_2
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 191
+        width: 61
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85d2b83158e2a00a0800000000000000
+      internalID: -6914663128780559016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixellab-A-professional-16-bit-pixel-ar-1773189375069_3
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 128
+        width: 57
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3b2474774d94a740800000000000000
+      internalID: 5162424003095440187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixellab-A-professional-16-bit-pixel-ar-1773189375069_4
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 191
+        width: 62
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 126accc53de323a90800000000000000
+      internalID: -7335731765517179359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixellab-A-professional-16-bit-pixel-ar-1773189375069_5
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 191
+        width: 61
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c42191bf6a93588b0800000000000000
+      internalID: -5150647209488215476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixellab-A-professional-16-bit-pixel-ar-1773189375069_6
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 129
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34b8115db8e5ca830800000000000000
+      internalID: 4083742916786359107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixellab-A-professional-16-bit-pixel-ar-1773189375069_7
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 133
+        width: 62
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8036a9d8ed036ff0800000000000000
+      internalID: -44176277608451956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixellab-A-professional-16-bit-pixel-ar-1773189375069_8
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 65
+        width: 61
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd331121230655b50800000000000000
+      internalID: 6581272198639596509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixellab-A-professional-16-bit-pixel-ar-1773189375069_9
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1
+        width: 61
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16c430c9883ccbcd0800000000000000
+      internalID: -2540941098243371935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixellab-A-professional-16-bit-pixel-ar-1773189375069_10
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1
+        width: 62
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25c833c6ccf6e54e0800000000000000
+      internalID: -1991031061471851438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixellab-A-professional-16-bit-pixel-ar-1773189375069_11
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 64
+        width: 60
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7606f30b4ea180340800000000000000
+      internalID: 4830140169866666087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixellab-A-professional-16-bit-pixel-ar-1773189375069_12
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 65
+        width: 61
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31205900e33758620800000000000000
+      internalID: 2775751455478710803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixellab-A-professional-16-bit-pixel-ar-1773189375069_13
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1
+        width: 61
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b290d22a48c26cb40800000000000000
+      internalID: 5460100546401470763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixellab-A-professional-16-bit-pixel-ar-1773189375069_14
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 64
+        width: 61
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c4e51a9ff2b73210800000000000000
+      internalID: 1312714627273319624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixellab-A-professional-16-bit-pixel-ar-1773189375069_15
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 1
+        width: 61
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d69af4a279b7cf220800000000000000
+      internalID: 2521025780600777069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      pixellab-A-professional-16-bit-pixel-ar-1773189375069_0: 4296450420982700568
+      pixellab-A-professional-16-bit-pixel-ar-1773189375069_1: -326763955572669746
+      pixellab-A-professional-16-bit-pixel-ar-1773189375069_10: -1991031061471851438
+      pixellab-A-professional-16-bit-pixel-ar-1773189375069_11: 4830140169866666087
+      pixellab-A-professional-16-bit-pixel-ar-1773189375069_12: 2775751455478710803
+      pixellab-A-professional-16-bit-pixel-ar-1773189375069_13: 5460100546401470763
+      pixellab-A-professional-16-bit-pixel-ar-1773189375069_14: 1312714627273319624
+      pixellab-A-professional-16-bit-pixel-ar-1773189375069_15: 2521025780600777069
+      pixellab-A-professional-16-bit-pixel-ar-1773189375069_2: -6914663128780559016
+      pixellab-A-professional-16-bit-pixel-ar-1773189375069_3: 5162424003095440187
+      pixellab-A-professional-16-bit-pixel-ar-1773189375069_4: -7335731765517179359
+      pixellab-A-professional-16-bit-pixel-ar-1773189375069_5: -5150647209488215476
+      pixellab-A-professional-16-bit-pixel-ar-1773189375069_6: 4083742916786359107
+      pixellab-A-professional-16-bit-pixel-ar-1773189375069_7: -44176277608451956
+      pixellab-A-professional-16-bit-pixel-ar-1773189375069_8: 6581272198639596509
+      pixellab-A-professional-16-bit-pixel-ar-1773189375069_9: -2540941098243371935
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

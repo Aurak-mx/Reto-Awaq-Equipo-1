@@ -1,0 +1,416 @@
+fileFormatVersion: 2
+guid: b06c444918a984e46a5de16566498345
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -304681387101728694
+    second: pixellab-A-detailed-pixel-art-sprite-sh-1773196445759_0
+  - first:
+      213: -1813840835137152809
+    second: pixellab-A-detailed-pixel-art-sprite-sh-1773196445759_1
+  - first:
+      213: 7029708326203146847
+    second: pixellab-A-detailed-pixel-art-sprite-sh-1773196445759_2
+  - first:
+      213: 7748689209643679683
+    second: pixellab-A-detailed-pixel-art-sprite-sh-1773196445759_3
+  - first:
+      213: -2865397442148890775
+    second: pixellab-A-detailed-pixel-art-sprite-sh-1773196445759_4
+  - first:
+      213: 6232692593254376827
+    second: pixellab-A-detailed-pixel-art-sprite-sh-1773196445759_5
+  - first:
+      213: -4664108773310808920
+    second: pixellab-A-detailed-pixel-art-sprite-sh-1773196445759_6
+  - first:
+      213: -4027897305201367522
+    second: pixellab-A-detailed-pixel-art-sprite-sh-1773196445759_7
+  - first:
+      213: 9213167841391291496
+    second: pixellab-A-detailed-pixel-art-sprite-sh-1773196445759_8
+  - first:
+      213: -3618461136706234686
+    second: pixellab-A-detailed-pixel-art-sprite-sh-1773196445759_9
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pixellab-A-detailed-pixel-art-sprite-sh-1773196445759_0
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 285
+        width: 133
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a40d02884ed85cbf0800000000000000
+      internalID: -304681387101728694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixellab-A-detailed-pixel-art-sprite-sh-1773196445759_1
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 275
+        width: 132
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d85d8ede51f3d6e0800000000000000
+      internalID: -1813840835137152809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixellab-A-detailed-pixel-art-sprite-sh-1773196445759_2
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 275
+        width: 20
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f52c1f94a7a8e8160800000000000000
+      internalID: 7029708326203146847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixellab-A-detailed-pixel-art-sprite-sh-1773196445759_3
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 285
+        width: 125
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cfb6b728cfd88b60800000000000000
+      internalID: 7748689209643679683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixellab-A-detailed-pixel-art-sprite-sh-1773196445759_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 174
+        width: 446
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 967076835301c38d0800000000000000
+      internalID: -2865397442148890775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixellab-A-detailed-pixel-art-sprite-sh-1773196445759_5
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 174
+        width: 59
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b75a22f24e8fe7650800000000000000
+      internalID: 6232692593254376827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixellab-A-detailed-pixel-art-sprite-sh-1773196445759_6
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 82
+        width: 78
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8acb60d38c1c54fb0800000000000000
+      internalID: -4664108773310808920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixellab-A-detailed-pixel-art-sprite-sh-1773196445759_7
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 0
+        width: 78
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1628bbddb80a18c0800000000000000
+      internalID: -4027897305201367522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixellab-A-detailed-pixel-art-sprite-sh-1773196445759_8
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 0
+        width: 78
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86c2e2a965fbbdf70800000000000000
+      internalID: 9213167841391291496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixellab-A-detailed-pixel-art-sprite-sh-1773196445759_9
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 0
+        width: 78
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c6911184c4a8cdc0800000000000000
+      internalID: -3618461136706234686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      pixellab-A-detailed-pixel-art-sprite-sh-1773196445759_0: -304681387101728694
+      pixellab-A-detailed-pixel-art-sprite-sh-1773196445759_1: -1813840835137152809
+      pixellab-A-detailed-pixel-art-sprite-sh-1773196445759_2: 7029708326203146847
+      pixellab-A-detailed-pixel-art-sprite-sh-1773196445759_3: 7748689209643679683
+      pixellab-A-detailed-pixel-art-sprite-sh-1773196445759_4: -2865397442148890775
+      pixellab-A-detailed-pixel-art-sprite-sh-1773196445759_5: 6232692593254376827
+      pixellab-A-detailed-pixel-art-sprite-sh-1773196445759_6: -4664108773310808920
+      pixellab-A-detailed-pixel-art-sprite-sh-1773196445759_7: -4027897305201367522
+      pixellab-A-detailed-pixel-art-sprite-sh-1773196445759_8: 9213167841391291496
+      pixellab-A-detailed-pixel-art-sprite-sh-1773196445759_9: -3618461136706234686
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

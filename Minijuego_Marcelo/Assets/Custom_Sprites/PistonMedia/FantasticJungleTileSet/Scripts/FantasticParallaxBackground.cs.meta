@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: bc10a6b8b1b940aea8ddc2986ae85f8d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 260235
+  packageName: Fantastic Jungle Pixel Art Set
+  packageVersion: 1.1
+  assetPath: Assets/PistonMedia/FantasticJungleTileSet/Scripts/FantasticParallaxBackground.cs
+  uploadId: 828944
