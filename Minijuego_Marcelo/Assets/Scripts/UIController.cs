@@ -45,22 +45,12 @@ public class UIController : MonoBehaviour
     public TextMeshProUGUI endXpText; 
     public TextMeshProUGUI endMedalText; 
 
-
-    // int time; 
-
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-        // time = GameControl.Instance.timeToWin; 
         lives = PlayerPrefs.GetInt("Lives"); 
-        // ActiveText(); 
-        
     }
 
-    // public void StartTimer()
-    // {
-    //     StartCoroutine(MatchTime());
-    // }
 
     public void UpdateLives()
     {
@@ -87,10 +77,7 @@ public class UIController : MonoBehaviour
                 ammoImages[i].sprite = spendAmmo; // Sprite de spendAmmo
             }
         }
-        // if (ammo >= 0 && ammo < ammoImages.Length)
-        // {
-        //     ammoImages[ammo].sprite = spendAmmo; 
-        // }
+        
     }
 
 
@@ -98,18 +85,7 @@ public class UIController : MonoBehaviour
     public void OpenQuestionPanel()
     {
         // Creamos lista temporal para preguntas que siguen "pendientes"
-        List<int> pendingQuestions = new List<int>(); 
-
-       // Para cada pregunta en nuestra lista de preguntas
-       for (int i = 0; i<questionsList.Length; i++)
-        {
-            // Para cada pregunta que no haya sido respondida correctamente
-            if (questionsList[i].isAnsweredCorrectly == false) 
-            {
-                // Agregar pregunta a lista de "preguntas pendientes"
-                pendingQuestions.Add(i); 
-            }
-        }
+        List<int> pendingQuestions = GetPendingQuestions(); 
 
         if (pendingQuestions.Count > 0)
         {
@@ -156,7 +132,8 @@ public class UIController : MonoBehaviour
     private void VerifyAnswer(int selectedOption)
     {
         float timeTaken = Time.realtimeSinceStartup - questionStartTime; // Diferencia de tiempo entre que se respondío la pregunta y que se abrío el panel. 
-        bool correct; 
+        bool correct;  
+        
 
         // Si respuesta es correcta, marcar pregunta como "isAnsweredCorrectly" y poner correct = true
         if (questionsList[currentQuestionIndex].correctButtonIndex == selectedOption)
@@ -166,9 +143,6 @@ public class UIController : MonoBehaviour
             questionsList[currentQuestionIndex].isAnsweredCorrectly = true; 
             correct = true; 
 
-            // Modificar texto & color de texto a verde
-            // notificationText.text = "¡CORRECTO! +1 Bala"; 
-            // notificationText.color = Color.green; 
         }
         // Si respuesta es incorrecta, poner correct = false ( esto sirve para los tótems )
         else
@@ -177,9 +151,6 @@ public class UIController : MonoBehaviour
             Debug.Log("RESPUESTA INCORRECTA");
             correct = false; 
 
-            // Modificar texto & color de texto a rojo
-            // notificationText.text = "¡INCORRECTO! Penzlización de XP"; 
-            // notificationText.color = Color.red; 
         }
 
         // Calculamos los tótems ganados y agregamos a usuario
@@ -196,36 +167,24 @@ public class UIController : MonoBehaviour
             ShowNotificationText("¡INCORRECTO! +" + xpEarned + " Tótems de consolación", Color.red);
         }
 
-        // Activamos visiblemente componente "notificationText"
-        // notificationText.gameObject.SetActive(true); 
+        // Creamos lista temporal para preguntas que siguen "pendientes", despues de actualizar estado de pregunta contestada
+        List<int> pendingQuestions = GetPendingQuestions();
 
-        // Desactivamos componente "notificationText" después de 2 segundos
-        // Invoke("HideNotification", 2f); 
+        if (pendingQuestions.Count > 0)
+        {
+            CloseQuestionPanelAndResume(); 
+        }
 
-        // GameControl.Instance.AddCalculatedXP(timeTaken, correct); 
+        else
+        {
+            // Caso especial para ganar, significa no matar a los jefes y responder TODAS las preguntas para este area. 
+            Debug.Log("Felicidades! Ya respondiste todas las preguntas de Awaq Correctamente. "); 
+            // Time.timeScale = 1f; 
+            ShowEndGameScreen(true, GameControl.Instance.currentXP, "Platino (Pacifista)");
+        }
 
-        CloseQuestionPanelAndResume(); 
+        
     }
-
-    // IEnumerator MatchTime()
-    // {
-    //     yield return new WaitForSeconds(1); 
-    //     time -=1; 
-    //     ActiveText();
-    //     if (time == 0)
-    //     {
-    //         SceneManager.LoadScene("EndScene"); 
-    //     }
-    //     else
-    //     {
-    //      StartCoroutine(MatchTime());   
-    //     } 
-    // }
-
-    // public void ActiveText()
-    // {
-    //     timeText.text = "Remaining time: " + time; 
-    // }
 
     public void CloseQuestionPanel() // Función se encarga de apagar el panel ( se usara al momento en el cuál el usuario conteste )
     {
@@ -267,7 +226,7 @@ public class UIController : MonoBehaviour
         // Definimos si gano o perdió
         if (isWin)
         {
-            if (medal == "Platino(Pacifista)")
+            if (medal == "Platino (Pacifista)")
             {
                 endTitleText.text = "¡VICTORIA PACIFISTA!"; 
                 GameControl.Instance.sfxManager.PlayWinBGM(); // Música de ganar
@@ -366,6 +325,25 @@ public class UIController : MonoBehaviour
     {
         notificationText.gameObject.SetActive(false); 
         notificationPanel.SetActive(false); 
+    }
+
+    public List<int> GetPendingQuestions()
+    {
+        // Creamos lista temporal para preguntas que siguen "pendientes"
+        List<int> pendingQuestions = new List<int>(); 
+
+       // Para cada pregunta en nuestra lista de preguntas
+       for (int i = 0; i<questionsList.Length; i++)
+        {
+            // Para cada pregunta que no haya sido respondida correctamente
+            if (questionsList[i].isAnsweredCorrectly == false) 
+            {
+                // Agregar pregunta a lista de "preguntas pendientes"
+                pendingQuestions.Add(i); 
+            }
+        }
+
+        return pendingQuestions; 
     }
 
     // Update is called once per frame

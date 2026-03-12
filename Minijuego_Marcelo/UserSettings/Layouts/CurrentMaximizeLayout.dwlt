@@ -24,7 +24,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 112}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 195672
+  controlID: 201127
   draggingID: 0
 --- !u!114 &2
 MonoBehaviour:
@@ -153,7 +153,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 112}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
-  controlID: 195562
+  controlID: 201082
   draggingID: 0
 --- !u!114 &4
 MonoBehaviour:
@@ -179,7 +179,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 56}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 195526
+  controlID: 201058
   draggingID: 0
 --- !u!114 &5
 MonoBehaviour:
@@ -200,8 +200,8 @@ MonoBehaviour:
     y: 0
     width: 332.5
     height: 529.5
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 201, y: 226}
+  m_MaxSize: {x: 4001, y: 4026}
   m_ActualView: {fileID: 6}
   m_Panes:
   - {fileID: 6}
@@ -247,11 +247,17 @@ MonoBehaviour:
     m_DynamicPanelBehavior: 0
   m_SceneHierarchy:
     m_TreeViewState:
-      scrollPos: {x: 0, y: 27.5}
+      scrollPos: {x: 0, y: 0}
       m_SelectedIDs: []
       m_LastClickedID:
         m_Data: 0
       m_ExpandedIDs:
+      - m_Data: -1462478
+      - m_Data: -1461812
+      - m_Data: -1458666
+      - m_Data: -1452626
+      - m_Data: -1452610
+      - m_Data: -1452594
       - m_Data: -1425952
       - m_Data: -1422304
       - m_Data: -1419894
@@ -398,6 +404,9 @@ MonoBehaviour:
       - m_Data: 759846
       - m_Data: 759932
       - m_Data: 768850
+      - m_Data: 808572
+      - m_Data: 808764
+      - m_Data: 821806
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -946,9 +955,9 @@ MonoBehaviour:
   m_AudioPlay: 0
   m_DebugDrawModesUseInteractiveLightBakingData: 0
   m_Position:
-    m_Target: {x: -0.92746097, y: 0.7296375, z: -0.100527525}
+    m_Target: {x: 0.79616284, y: 4.7522397, z: -0.087058835}
     speed: 2
-    m_Value: {x: -0.92746097, y: 0.7296375, z: -0.100527525}
+    m_Value: {x: 0.79616284, y: 4.7522397, z: -0.087058835}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -998,9 +1007,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 10.984907
+    m_Target: 9.530781
     speed: 2
-    m_Value: 10.984907
+    m_Value: 9.530781
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -1053,8 +1062,8 @@ MonoBehaviour:
     y: 529.5
     width: 1082.5
     height: 359.5
-  m_MinSize: {x: 231, y: 276}
-  m_MaxSize: {x: 10001, y: 10026}
+  m_MinSize: {x: 230, y: 250}
+  m_MaxSize: {x: 10000, y: 10000}
   m_ActualView: {fileID: 10}
   m_Panes:
   - {fileID: 10}
@@ -1110,7 +1119,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Sounds_Marcelo
+    - Assets/Scenes
     m_Globs: []
     m_ProductIds: 
     m_AnyWithAssetOrigin: 0
@@ -1120,7 +1129,7 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Sounds_Marcelo
+  - Assets/Scenes
   m_LastFoldersGridSize: -1
   m_LastProjectPath: /Users/mg/Desktop/TEC/GIT REPOS/Reto-Awaq-Equipo/Minijuego_Marcelo
   m_LockTracker:
@@ -1129,9 +1138,9 @@ MonoBehaviour:
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs:
-    - m_Data: 496332
+    - m_Data: 454542
     m_LastClickedID:
-      m_Data: 496332
+      m_Data: 454542
     m_ExpandedIDs:
     - m_Data: 0
     - m_Data: 454530
@@ -1204,9 +1213,8 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs:
-    - m_Data: 769380
-    m_LastClickedInstanceID: 769380
+    m_SelectedInstanceIDs: []
+    m_LastClickedInstanceID: 0
     m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs:
     - m_Data: 80350
@@ -1315,7 +1323,7 @@ MonoBehaviour:
   m_MinSize: {x: 100, y: 112}
   m_MaxSize: {x: 8096, y: 16192}
   vertical: 1
-  controlID: 195673
+  controlID: 201128
   draggingID: 0
 --- !u!114 &13
 MonoBehaviour:
@@ -1336,8 +1344,8 @@ MonoBehaviour:
     y: 0
     width: 429.5
     height: 529.5
-  m_MinSize: {x: 275, y: 50}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 276, y: 76}
+  m_MaxSize: {x: 4001, y: 4026}
   m_ActualView: {fileID: 14}
   m_Panes:
   - {fileID: 14}
@@ -1387,7 +1395,7 @@ MonoBehaviour:
     m_CachedPref: 160
     m_ControlHash: -371814159
     m_PrefName: Preview_InspectorPreview
-  m_LastInspectedObjectInstanceID: 769380
+  m_LastInspectedObjectInstanceID: -1
   m_LastVerticalScrollValue: 0
   m_GlobalObjectId: 
   m_InspectorMode: 0
