@@ -9,6 +9,12 @@ public class Hazard : MonoBehaviour
         {
             // Buscamos UIController en la escena
             UIController ui = Object.FindFirstObjectByType<UIController>(); 
+            
+            // Quitar todas las vidas del jugador
+            GameControl.Instance.SpendLives(); 
+            GameControl.Instance.SpendLives(); 
+            GameControl.Instance.SpendLives(); 
+
 
             ui.ShowEndGameScreen(false, GameControl.Instance.currentXP, "Ninguna"); 
         }
