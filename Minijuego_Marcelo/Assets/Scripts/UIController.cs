@@ -14,6 +14,7 @@ public class UIController : MonoBehaviour
     public Sprite spendLives; 
     public Sprite spendAmmo; // Sprite que reemplaza a bola de nieve cuando se usa
     public Sprite fillAmmo; // Sprite de bola de nieve "llena"
+    public Sprite medalPlatino; // Sprite medalla platino ( EASTER EGG )
     public Sprite medalGold; // Sprite medalla oro
     public Sprite medalSilver; // Sprite medalla silver
     public Sprite medalBronze; // Sprite medalla bronze
@@ -31,6 +32,7 @@ public class UIController : MonoBehaviour
     public TextMeshProUGUI leftButtonUIText; 
     public TextMeshProUGUI rightButtonUIText;
     public TextMeshProUGUI notificationText; // Mensaje estatus respuesta
+    public GameObject notificationPanel; // Panel con mensaje de nofificación
 
     // Datos locales para creación y gestión de preguntas
     public QuestionData[] questionsList; 
@@ -131,7 +133,7 @@ public class UIController : MonoBehaviour
             // Caso especial para ganar, significa no matar a los jefes y responder TODAS las preguntas para este area. 
             Debug.Log("Felicidades! Ya respondiste todas las preguntas de Awaq Correctamente. "); 
             Time.timeScale = 1f; 
-            ShowEndGameScreen(true, 1000, "Platino (Pacifista)"); 
+            ShowEndGameScreen(true, GameControl.Instance.currentXP, "Platino (Pacifista)"); 
         }
     }
 
@@ -159,6 +161,7 @@ public class UIController : MonoBehaviour
         // Si respuesta es correcta, marcar pregunta como "isAnsweredCorrectly" y poner correct = true
         if (questionsList[currentQuestionIndex].correctButtonIndex == selectedOption)
         {
+            //GameControl.Instance.sfxManager.CorrectAnswerSound(); // Sonido de respuesta correcto (cofre)
             Debug.Log("RESPUESTA CORRECTA"); 
             questionsList[currentQuestionIndex].isAnsweredCorrectly = true; 
             correct = true; 
@@ -170,6 +173,7 @@ public class UIController : MonoBehaviour
         // Si respuesta es incorrecta, poner correct = false ( esto sirve para los tótems )
         else
         {
+            //GameControl.Instance.sfxManager.IncorrectAnswerSound(); // Sonido de respuesta correcto (cofre)
             Debug.Log("RESPUESTA INCORRECTA");
             correct = false; 
 
@@ -183,10 +187,12 @@ public class UIController : MonoBehaviour
 
         if (correct)
         {
+            GameControl.Instance.sfxManager.CorrectAnswerSound(); // Sonido de respuesta correcto (cofre)
             ShowNotificationText("¡CORRECTO! +" + xpEarned + " Tótems y +1 Bala", Color.green);
         }
         else
         {
+            GameControl.Instance.sfxManager.IncorrectAnswerSound(); // Sonido de respuesta correcto (cofre)
             ShowNotificationText("¡INCORRECTO! +" + xpEarned + " Tótems de consolación", Color.red);
         }
 
@@ -245,9 +251,14 @@ public class UIController : MonoBehaviour
     public void ShowEndGameScreen(bool isWin, int xpGained, string medal)
     {
 
+        // Desactivar Notifications Panel cuando termina juego
         if (notificationText != null)
         {
             notificationText.gameObject.SetActive(false);
+        }
+        if (notificationPanel != null)
+        {
+            notificationPanel.SetActive(false); 
         }
 
         // Pausamos juego 
@@ -256,15 +267,27 @@ public class UIController : MonoBehaviour
         // Definimos si gano o perdió
         if (isWin)
         {
-            endTitleText.text = "¡GANASTE!"; 
+            if (medal == "Platino(Pacifista)")
+            {
+                endTitleText.text = "¡VICTORIA PACIFISTA!"; 
+                GameControl.Instance.sfxManager.PlayWinBGM(); // Música de ganar
+            }
+            else
+            {
+                endTitleText.text = "¡GANASTE!"; 
+                GameControl.Instance.sfxManager.PlayWinBGM(); // Música de ganar
+            }
+            
         }
         else
         {
             endTitleText.text = "¡FIN DEL JUEGO!"; 
+            GameControl.Instance.sfxManager.StopBGM(); // Parar de tocar música de fondo
+            GameControl.Instance.sfxManager.LoseSound(); // Sonido de perder
         }
 
         // Adignamos valores de XP y Medalla
-        endXpText.text = "XP Total: " + xpGained; 
+        endXpText.text = xpGained.ToString(); 
 
         // Funcionamiento despliegue de Medalla
 
@@ -282,6 +305,11 @@ public class UIController : MonoBehaviour
         {
             finalMedalImage.sprite = medalBronze; // Asignar a el final medal image la imágen de bronze medal
             finalMedalImage.gameObject.SetActive(true); // Despliegar medalla
+        }
+        else if ( medal == "Platino (Pacifista)")
+        {
+            finalMedalImage.sprite = medalPlatino;
+            finalMedalImage.gameObject.SetActive(true);
         }
         else
         {
@@ -328,6 +356,7 @@ public class UIController : MonoBehaviour
         notificationText.text = message; 
         notificationText.color = msgColor; 
         notificationText.gameObject.SetActive(true); 
+        notificationPanel.SetActive(true); 
 
         Invoke("HideNotification", 2f); // Desactivamos componente "notificationText" después de 2 segundos
     }
@@ -336,6 +365,7 @@ public class UIController : MonoBehaviour
     private void HideNotification()
     {
         notificationText.gameObject.SetActive(false); 
+        notificationPanel.SetActive(false); 
     }
 
     // Update is called once per frame

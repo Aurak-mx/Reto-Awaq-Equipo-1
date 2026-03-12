@@ -46,6 +46,8 @@ public class BossBehavior : MonoBehaviour
 
     void Shoot()
     {
+
+        GameControl.Instance.sfxManager.EnemyThrowSound(); // Sonido de Diaparar de Boss
         // Creamos bala de boss
         Instantiate(enemyBulletPrefab, firePoint.position, Quaternion.identity); 
     }

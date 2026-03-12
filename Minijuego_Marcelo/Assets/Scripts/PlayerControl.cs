@@ -72,6 +72,7 @@ public class PlayerControl : MonoBehaviour
 
         if (jumpRequested) // Si se solicito un salto, se aplica fuerza de salto y se reinicia la variable de salto solicitado
         {
+            GameControl.Instance.sfxManager.JumpSound(); // Sonido al brincar
             rig.AddForce(Vector2.up * jumpForce, ForceMode2D.Impulse); 
             jumpRequested = false; 
         }
@@ -130,6 +131,8 @@ public class PlayerControl : MonoBehaviour
         // Prendemos switch de la animación de lanzar
         animatorController.SetBool("isFighting", true); 
 
+        GameControl.Instance.sfxManager.ThrowSound(); 
+
         // Llamamos función SpawnProjectile para crear proyectil con un retraso de .15 segundos
         Invoke("SpawnProjectile", 0.18f); 
 
@@ -162,6 +165,9 @@ public class PlayerControl : MonoBehaviour
 
         // Apagamos animación de "hurt"
         Invoke("StopHurt", 0.3f); 
+
+        // Sonido de que le pegaron a el jugador
+        GameControl.Instance.sfxManager.PlayerHitSound(); 
 
         // Avisamos a GameControl para que quite vida y actualice UI
         GameControl.Instance.SpendLives(); 

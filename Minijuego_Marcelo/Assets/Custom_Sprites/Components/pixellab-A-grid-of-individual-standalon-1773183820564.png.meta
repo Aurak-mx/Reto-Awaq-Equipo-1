@@ -1,0 +1,572 @@
+fileFormatVersion: 2
+guid: b21835aff5602461092049a1d5a45650
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4690015123210031760
+    second: pixellab-A-grid-of-individual-standalon-1773183820564_0
+  - first:
+      213: 8207484484524866809
+    second: pixellab-A-grid-of-individual-standalon-1773183820564_1
+  - first:
+      213: -2883731520091912451
+    second: pixellab-A-grid-of-individual-standalon-1773183820564_2
+  - first:
+      213: 2562835485693983662
+    second: pixellab-A-grid-of-individual-standalon-1773183820564_3
+  - first:
+      213: 3571605274558645265
+    second: pixellab-A-grid-of-individual-standalon-1773183820564_4
+  - first:
+      213: -1681028919256059598
+    second: pixellab-A-grid-of-individual-standalon-1773183820564_5
+  - first:
+      213: -935263835141351371
+    second: pixellab-A-grid-of-individual-standalon-1773183820564_6
+  - first:
+      213: 4830899653437728787
+    second: pixellab-A-grid-of-individual-standalon-1773183820564_7
+  - first:
+      213: 8025672298911849241
+    second: pixellab-A-grid-of-individual-standalon-1773183820564_8
+  - first:
+      213: -4513243625600487476
+    second: pixellab-A-grid-of-individual-standalon-1773183820564_9
+  - first:
+      213: -3130500938992305382
+    second: pixellab-A-grid-of-individual-standalon-1773183820564_10
+  - first:
+      213: -1697826092041283724
+    second: pixellab-A-grid-of-individual-standalon-1773183820564_11
+  - first:
+      213: 400223485186941380
+    second: pixellab-A-grid-of-individual-standalon-1773183820564_12
+  - first:
+      213: -6939494325606247297
+    second: pixellab-A-grid-of-individual-standalon-1773183820564_13
+  - first:
+      213: 2536776094701506489
+    second: pixellab-A-grid-of-individual-standalon-1773183820564_14
+  - first:
+      213: 2209450344865957916
+    second: pixellab-A-grid-of-individual-standalon-1773183820564_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pixellab-A-grid-of-individual-standalon-1773183820564_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 100
+        width: 58
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07d2bdd1818b9eeb0800000000000000
+      internalID: -4690015123210031760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixellab-A-grid-of-individual-standalon-1773183820564_1
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 99
+        width: 58
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fc72af47a7d6e170800000000000000
+      internalID: 8207484484524866809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixellab-A-grid-of-individual-standalon-1773183820564_2
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 100
+        width: 58
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df6035d067deaf7d0800000000000000
+      internalID: -2883731520091912451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixellab-A-grid-of-individual-standalon-1773183820564_3
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 99
+        width: 58
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eab3e86bb45019320800000000000000
+      internalID: 2562835485693983662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixellab-A-grid-of-individual-standalon-1773183820564_4
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 67
+        width: 58
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 114caf3f214e09130800000000000000
+      internalID: 3571605274558645265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixellab-A-grid-of-individual-standalon-1773183820564_5
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 68
+        width: 58
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 231759aba19cba8e0800000000000000
+      internalID: -1681028919256059598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixellab-A-grid-of-individual-standalon-1773183820564_6
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 67
+        width: 58
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53851274f764503f0800000000000000
+      internalID: -935263835141351371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixellab-A-grid-of-individual-standalon-1773183820564_7
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 68
+        width: 58
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 318a6bcb3adca0340800000000000000
+      internalID: 4830899653437728787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixellab-A-grid-of-individual-standalon-1773183820564_8
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 36
+        width: 60
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91b555c1f6ae06f60800000000000000
+      internalID: 8025672298911849241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixellab-A-grid-of-individual-standalon-1773183820564_9
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 34
+        width: 60
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccf694fa5dcbd51c0800000000000000
+      internalID: -4513243625600487476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixellab-A-grid-of-individual-standalon-1773183820564_10
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 36
+        width: 60
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1b365a6bf93e84d0800000000000000
+      internalID: -3130500938992305382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixellab-A-grid-of-individual-standalon-1773183820564_11
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 36
+        width: 58
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4775d7d2a2c1078e0800000000000000
+      internalID: -1697826092041283724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixellab-A-grid-of-individual-standalon-1773183820564_12
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 4
+        width: 54
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c12659a321ed8500800000000000000
+      internalID: 400223485186941380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixellab-A-grid-of-individual-standalon-1773183820564_13
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 4
+        width: 58
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7496698da6f1bf90800000000000000
+      internalID: -6939494325606247297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixellab-A-grid-of-individual-standalon-1773183820564_14
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 2
+        width: 60
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bfc26fea60743320800000000000000
+      internalID: 2536776094701506489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixellab-A-grid-of-individual-standalon-1773183820564_15
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 4
+        width: 58
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c18899ae16b89ae10800000000000000
+      internalID: 2209450344865957916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      pixellab-A-grid-of-individual-standalon-1773183820564_0: -4690015123210031760
+      pixellab-A-grid-of-individual-standalon-1773183820564_1: 8207484484524866809
+      pixellab-A-grid-of-individual-standalon-1773183820564_10: -3130500938992305382
+      pixellab-A-grid-of-individual-standalon-1773183820564_11: -1697826092041283724
+      pixellab-A-grid-of-individual-standalon-1773183820564_12: 400223485186941380
+      pixellab-A-grid-of-individual-standalon-1773183820564_13: -6939494325606247297
+      pixellab-A-grid-of-individual-standalon-1773183820564_14: 2536776094701506489
+      pixellab-A-grid-of-individual-standalon-1773183820564_15: 2209450344865957916
+      pixellab-A-grid-of-individual-standalon-1773183820564_2: -2883731520091912451
+      pixellab-A-grid-of-individual-standalon-1773183820564_3: 2562835485693983662
+      pixellab-A-grid-of-individual-standalon-1773183820564_4: 3571605274558645265
+      pixellab-A-grid-of-individual-standalon-1773183820564_5: -1681028919256059598
+      pixellab-A-grid-of-individual-standalon-1773183820564_6: -935263835141351371
+      pixellab-A-grid-of-individual-standalon-1773183820564_7: 4830899653437728787
+      pixellab-A-grid-of-individual-standalon-1773183820564_8: 8025672298911849241
+      pixellab-A-grid-of-individual-standalon-1773183820564_9: -4513243625600487476
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -26,7 +26,9 @@ public class BossHealth : MonoBehaviour
 
     public void TakeDamage(int damage)
     {
-        currentHealth -= damage; 
+        currentHealth -= damage;  
+
+        GameControl.Instance.sfxManager.EnemyHitSound(); // Sonido de "hit" cuando le damos un hit a un boss
 
         // Actualizamos barra de vida de planta que tomo "golpe"
         if (healthBarFill != null)
