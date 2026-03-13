@@ -151,6 +151,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::ChaserGael
   moveSpeed: 5
   stopDistance: 0
+  sound: {fileID: 0}
 --- !u!4 &88400630
 Transform:
   m_ObjectHideFlags: 0
@@ -1226,7 +1227,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 51e2a2a3f6f4eca4a80388e3ff68f876, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Parallax
-  parallaxEffect: 0.9
+  parallaxEffect: 0.95
 --- !u!1 &581857363
 GameObject:
   m_ObjectHideFlags: 0
