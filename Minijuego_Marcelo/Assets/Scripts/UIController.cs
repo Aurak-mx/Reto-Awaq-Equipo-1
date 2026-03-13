@@ -310,7 +310,6 @@ public class UIController : MonoBehaviour
 
     public void ShowNotificationText(string message, Color msgColor)
     {
-        // CancelInvoke("HideNotification"); Cancelamos por si había mensaje anterior
 
         notificationText.text = message; 
         notificationText.color = msgColor; 

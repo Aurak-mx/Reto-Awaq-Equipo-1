@@ -46,17 +46,24 @@ public class BossHealth : MonoBehaviour
 
         if (currentHealth > 0) // Si es primer golpe a jefe, dar 50 totems
         {
-            GameControl.Instance.currentXP += 50; 
-            FindObjectOfType<UIController>().UpdateXPBar(); // Actualiza UI Tótem bar
+            //GameControl.Instance.currentXP += 50; 
+            //FindObjectOfType<UIController>().UpdateXPBar(); // Actualiza UI Tótem bar
+            //FindObjectOfType<UIController>().ShowNotificationText("+50 Tótems", Color.yellow); // Mensaje Tótems
 
-            FindObjectOfType<UIController>().ShowNotificationText("+50 Tótems", Color.yellow); // Mensaje Tótems
+            GameControl.Instance.AddXP(50);
+            GameControl.Instance.uiController.ShowNotificationText("+50 Tótems", Color.yellow); 
+            
         }
         else // Si es segundo golpe a jefe, dar 50 totems
         {
-            GameControl.Instance.currentXP += 100; 
-            FindObjectOfType<UIController>().UpdateXPBar(); // Actualiza UI Tótem bar
+            //GameControl.Instance.currentXP += 100; 
+            //FindObjectOfType<UIController>().UpdateXPBar(); // Actualiza UI Tótem bar
+            //FindObjectOfType<UIController>().ShowNotificationText("¡ELIMINADA! +100 Tótems", Color.red); // Mensaje Tótems
 
-            FindObjectOfType<UIController>().ShowNotificationText("¡ELIMINADA! +100 Tótems", Color.red); // Mensaje Tótems
+            GameControl.Instance.AddXP(100);
+            GameControl.Instance.uiController.ShowNotificationText("¡ELIMINADA! +100 Tótems", Color.red);
+
+            
             Die(); 
         } 
     }
@@ -84,7 +91,9 @@ public class BossHealth : MonoBehaviour
             string finalMedal = GameControl.Instance.GetMedal(); // Obtener la medalla correspondiente
 
             // Buscamos UIController y mandamos datos de "Victoria", 500 XP, y Medalla de "Oro"
-            FindObjectOfType<UIController>().ShowEndGameScreen(true, finalXP, finalMedal); 
+            //FindObjectOfType<UIController>().ShowEndGameScreen(true, finalXP, finalMedal); 
+            GameControl.Instance.uiController.ShowEndGameScreen(true, finalXP, finalMedal); 
+
         }
 
         Destroy(gameObject); // Destruir planta que perdio sus vidas

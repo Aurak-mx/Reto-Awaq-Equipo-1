@@ -35,7 +35,7 @@ public class PlatformSpawner : MonoBehaviour
             
             GameObject newChest = Instantiate(chestPrefab, chestPosition, Quaternion.identity);
             
-            newChest.transform.SetParent(newPlatform.transform); 
+            newChest.transform.SetParent(newPlatform.transform); // Asignar jerarquia con transforms
         }
 
         StartCoroutine(SpawnerTime()); 
