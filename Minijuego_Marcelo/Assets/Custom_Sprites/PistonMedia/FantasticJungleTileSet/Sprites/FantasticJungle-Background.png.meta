@@ -1,0 +1,907 @@
+fileFormatVersion: 2
+guid: a7982b05d4cb614a1a102f5dde952c52
+AssetOrigin:
+  serializedVersion: 1
+  productId: 260235
+  packageName: Fantastic Jungle Pixel Art Set
+  packageVersion: 1.1
+  assetPath: Assets/PistonMedia/FantasticJungleTileSet/Sprites/FantasticJungle-Background.png
+  uploadId: 828944
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8902671038831542018
+    second: FantasticJungle-Background_0
+  - first:
+      213: 6938349985163273503
+    second: FantasticJungle-Background_1
+  - first:
+      213: 918328702012370686
+    second: FantasticJungle-Background_2
+  - first:
+      213: 1131903860064397086
+    second: FantasticJungle-Background_3
+  - first:
+      213: -5033953633363318772
+    second: FantasticJungle-Background_4
+  - first:
+      213: -8801364711615251948
+    second: FantasticJungle-Background_5
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 4
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FantasticJungle-Background_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 416
+        width: 105
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20f36b53424ac8b70800000000000000
+      internalID: 8902671038831542018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FantasticJungle-Background_1
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 411
+        width: 118
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f156ef0fc88f94060800000000000000
+      internalID: 6938349985163273503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FantasticJungle-Background_2
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 416
+        width: 78
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efe2e76c61f8ebc00800000000000000
+      internalID: 918328702012370686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FantasticJungle-Background_3
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 421
+        width: 64
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e17280b409455bf00800000000000000
+      internalID: 1131903860064397086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FantasticJungle-Background_4
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 416
+        width: 52
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c08a79b67ddc32ab0800000000000000
+      internalID: -5033953633363318772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FantasticJungle-Background_5
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 422
+        width: 57
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41ab3892d654bd580800000000000000
+      internalID: -8801364711615251948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background1_tree1
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 233
+        width: 98
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5, y: 0.48666668}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 158352d20adef14cc99038466d316df8
+      internalID: 1615931671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background1_bush
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 233
+        width: 59
+        height: 40
+      alignment: 9
+      pivot: {x: 0.4915254, y: 0.45000002}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc5553b86ebdc70bc99edccc03b1ab3f
+      internalID: -1221820957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background1_tree2
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 233
+        width: 88
+        height: 147
+      alignment: 9
+      pivot: {x: 0.5227273, y: 0.48979592}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b3a002daf1f5f481bb65d720e795940
+      internalID: 2055413052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background3
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 233
+        width: 76
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed19f53de60de08fdb4aa047bc7188cd
+      internalID: -1731837830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background1_tree4
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 235
+        width: 97
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ecb673f54f857d7a97ef7c519595d0c
+      internalID: -172991065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background1_all
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 233
+        width: 509
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49459797}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af8820688d03cd75e8e4c34f58439289
+      internalID: -1818090887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background3_all
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 135
+        width: 510
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cfefd86f9a25d646bb439ff2037a6dd
+      internalID: -1676153230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background2_tree1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10
+        width: 78
+        height: 122
+      alignment: 9
+      pivot: {x: 0.52315927, y: 0.4860148}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa9d2a09c6e186deea3f73e554d1e945
+      internalID: 1524366781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background2_tree2
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 10
+        width: 71
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5254424, y: 0.4950235}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f1f772d9ae014f7cae2c0e9d1c7cda3
+      internalID: -533599015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background2_tree3
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 10
+        width: 87
+        height: 111
+      alignment: 9
+      pivot: {x: 0.5069212, y: 0.48924753}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aead9475ce2aa002f819c8fd77229660
+      internalID: 385267730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background2_tree4
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 10
+        width: 52
+        height: 74
+      alignment: 9
+      pivot: {x: 0.510663, y: 0.49689716}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad63eef190ae68a6fba0931d570fc0e9
+      internalID: 796475797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background2_Base
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 10
+        width: 135
+        height: 25
+      alignment: 9
+      pivot: {x: 0.50205374, y: 0.47640532}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88d5a30f42731bdaf9cb4c4ba6d72bd4
+      internalID: -603590899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background2_bushes
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 10
+        width: 53
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4653452}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27122f388e88fcad48157df45fdefb4a
+      internalID: -2127017517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background3_ColorOnly
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 135
+        width: 510
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec84dec964afcb7a1b26ed5097f059b6
+      internalID: -1779345612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background2_ColorOnly
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 511
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 874b6e0c555ab20309a95da4b0f1308e
+      internalID: 1091510574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background1_ColorOnly
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 233
+        width: 509
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70333bd19ec3fd078bd2c36937387366
+      internalID: 1884012537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background1_side
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 41
+        width: 44
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02309254bebe9f7dca6dda3d1c24c105
+      internalID: 288873414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background3_side
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 40
+        width: 38
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eabaf3ccb787cae33b0a6179d3d4e40e
+      internalID: -1927385457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background2_side
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 40
+        width: 38
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c94b8925a9434a8f4b56bf2893dd81b9
+      internalID: -1915445765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background1_ColorOnlyBushes
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 233
+        width: 59
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bac11cf03c1d3cc89cb7da20e8ec55b
+      internalID: 26257304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background1_ColorOnlyTree1
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 233
+        width: 98
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aa4682685162fae58705209365cdfad
+      internalID: -805447694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background1_ColorOnly2
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 233
+        width: 88
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bd344310956cf9b0b84378bf2b306d5
+      internalID: -943104511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background1_ColorOnly3
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 233
+        width: 76
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b41bff623c217534a0d16714e8248b4
+      internalID: 934872298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background1_ColorOnly4
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 234
+        width: 97
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fbad6cfbf811c047b20a395cb2c3933
+      internalID: -201737524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background1_ColorOnlySide
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 234
+        width: 46
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23ed1d089483dea0b82553b85f85da7a
+      internalID: 881780745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 3f58d8a4b7347a2459c7c3f73aabb0a4
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Background1_ColorOnly: 1884012537
+      Background1_ColorOnly2: -943104511
+      Background1_ColorOnly3: 934872298
+      Background1_ColorOnly4: -201737524
+      Background1_ColorOnlyBushes: 26257304
+      Background1_ColorOnlySide: 881780745
+      Background1_ColorOnlyTree1: -805447694
+      Background1_all: -1818090887
+      Background1_bush: -1221820957
+      Background1_side: 288873414
+      Background1_tree1: 1615931671
+      Background1_tree2: 2055413052
+      Background1_tree4: -172991065
+      Background2_Base: -603590899
+      Background2_ColorOnly: 1091510574
+      Background2_bushes: -2127017517
+      Background2_side: -1915445765
+      Background2_tree1: 1524366781
+      Background2_tree2: -533599015
+      Background2_tree3: 385267730
+      Background2_tree4: 796475797
+      Background3: -1731837830
+      Background3_all: -1676153230
+      FantasticJungle-Background_0: 8902671038831542018
+      FantasticJungle-Background_1: 6938349985163273503
+      FantasticJungle-Background_2: 918328702012370686
+      FantasticJungle-Background_3: 1131903860064397086
+      FantasticJungle-Background_4: -5033953633363318772
+      FantasticJungle-Background_5: -8801364711615251948
+      background3_ColorOnly: -1779345612
+      background3_side: -1927385457
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

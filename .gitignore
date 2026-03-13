@@ -87,7 +87,11 @@ InitTestScene*.unity*
 # By default, Addressables content builds will generate addressables_content_state.bin
 # files in platform-specific subfolders, for example:
 # /Assets/AddressableAssetsData/OSX/addressables_content_state.bin
+<<<<<<< HEAD
 /[Aa]ssets/AddressableAssetsData//.bin*
+=======
+/[Aa]ssets/AddressableAssetsData/*/*.bin*
+>>>>>>> 577adf65ab419ed4835c04d363b391fede8f3695
 
 # Visual Scripting auto-generated files
 /[Aa]ssets/Unity.VisualScripting.Generated/VisualScripting.Flow/UnitOptions.db
@@ -97,6 +101,7 @@ InitTestScene*.unity*
 
 # Auto-generated scenes by play mode tests
 /[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
+<<<<<<< HEAD
 
 # --- REGLAS PARA SUBCARPETAS (MINIJUEGO GAEL) ---
 **/[Ll]ibrary/
@@ -106,3 +111,5 @@ InitTestScene*.unity*
 **/[Uu]ser[Ss]ettings/
 **/[Bb]uild/
 **/[Bb]uilds/
+=======
+>>>>>>> 577adf65ab419ed4835c04d363b391fede8f3695

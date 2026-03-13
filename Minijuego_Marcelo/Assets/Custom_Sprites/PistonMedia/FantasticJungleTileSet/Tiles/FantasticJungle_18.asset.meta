@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: d8e0f9d691359a181079bd8b6bc3e371
+timeCreated: 1688559227
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 260235
+  packageName: Fantastic Jungle Pixel Art Set
+  packageVersion: 1.1
+  assetPath: Assets/PistonMedia/FantasticJungleTileSet/Tiles/FantasticJungle_18.asset
+  uploadId: 828944
