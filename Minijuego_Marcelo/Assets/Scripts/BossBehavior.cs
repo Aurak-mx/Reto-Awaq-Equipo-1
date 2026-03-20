@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class BossBehavior : MonoBehaviour
 {
-
+    // Comentario para github
     public GameObject enemyBulletPrefab; // Prefab de semilla a disparar
     public Transform firePoint; // El punto del cual saldrá la semilla 
     public float minShootDelay = 2f; // Tiempo mínimo para disparar
