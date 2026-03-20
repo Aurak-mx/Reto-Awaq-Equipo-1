@@ -1,0 +1,2496 @@
+fileFormatVersion: 2
+guid: b71eed1b2a8dfe24d9bad77aef779e3e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3987528164975953360
+    second: Crocodile Sprite Sheet_0
+  - first:
+      213: 5924955136359293036
+    second: Crocodile Sprite Sheet_1
+  - first:
+      213: -8955038718333217509
+    second: Crocodile Sprite Sheet_2
+  - first:
+      213: -252457737801117114
+    second: Crocodile Sprite Sheet_3
+  - first:
+      213: 2277792002534543951
+    second: Crocodile Sprite Sheet_4
+  - first:
+      213: -5577299127850816234
+    second: Crocodile Sprite Sheet_5
+  - first:
+      213: -8660858539349653052
+    second: Crocodile Sprite Sheet_6
+  - first:
+      213: 2965858516166725559
+    second: Crocodile Sprite Sheet_7
+  - first:
+      213: 2661994371268675148
+    second: Crocodile Sprite Sheet_8
+  - first:
+      213: -3730443639055926180
+    second: Crocodile Sprite Sheet_9
+  - first:
+      213: -5872386925186384566
+    second: Crocodile Sprite Sheet_10
+  - first:
+      213: 5641654230432262754
+    second: Crocodile Sprite Sheet_11
+  - first:
+      213: 9019566432583207525
+    second: Crocodile Sprite Sheet_12
+  - first:
+      213: -7557162115222813127
+    second: Crocodile Sprite Sheet_13
+  - first:
+      213: -7103208619533408668
+    second: Crocodile Sprite Sheet_14
+  - first:
+      213: 1894629141568429407
+    second: Crocodile Sprite Sheet_15
+  - first:
+      213: -1276341576047992893
+    second: Crocodile Sprite Sheet_16
+  - first:
+      213: 7611824046434453657
+    second: Crocodile Sprite Sheet_17
+  - first:
+      213: 4496028872527701120
+    second: Crocodile Sprite Sheet_18
+  - first:
+      213: 8394934873927397097
+    second: Crocodile Sprite Sheet_19
+  - first:
+      213: -8519004774588932001
+    second: Crocodile Sprite Sheet_20
+  - first:
+      213: -663254376539854598
+    second: Crocodile Sprite Sheet_21
+  - first:
+      213: -4703361887244582850
+    second: Crocodile Sprite Sheet_22
+  - first:
+      213: 6360246614207068429
+    second: Crocodile Sprite Sheet_23
+  - first:
+      213: -4340182249227350808
+    second: Crocodile Sprite Sheet_24
+  - first:
+      213: -7499963480226819299
+    second: Crocodile Sprite Sheet_25
+  - first:
+      213: 1568467043439254803
+    second: Crocodile Sprite Sheet_26
+  - first:
+      213: -6091379164797229330
+    second: Crocodile Sprite Sheet_27
+  - first:
+      213: -336441275729344078
+    second: Crocodile Sprite Sheet_28
+  - first:
+      213: -3763733359401018101
+    second: Crocodile Sprite Sheet_29
+  - first:
+      213: -5678786228130558051
+    second: Crocodile Sprite Sheet_30
+  - first:
+      213: 6977489670733319124
+    second: Crocodile Sprite Sheet_31
+  - first:
+      213: 9173914941849840192
+    second: Crocodile Sprite Sheet_32
+  - first:
+      213: -8215116459746814149
+    second: Crocodile Sprite Sheet_33
+  - first:
+      213: 8739440175275591448
+    second: Crocodile Sprite Sheet_34
+  - first:
+      213: 4898977566413657437
+    second: Crocodile Sprite Sheet_35
+  - first:
+      213: 3646084094190566312
+    second: Crocodile Sprite Sheet_36
+  - first:
+      213: -3681580220751455727
+    second: Crocodile Sprite Sheet_37
+  - first:
+      213: -5298765272961571219
+    second: Crocodile Sprite Sheet_38
+  - first:
+      213: 4798079373643808653
+    second: Crocodile Sprite Sheet_39
+  - first:
+      213: 6141338614684851265
+    second: Crocodile Sprite Sheet_40
+  - first:
+      213: -1598686095241754349
+    second: Crocodile Sprite Sheet_41
+  - first:
+      213: 8120097418275789512
+    second: Crocodile Sprite Sheet_42
+  - first:
+      213: 1430671095652659320
+    second: Crocodile Sprite Sheet_43
+  - first:
+      213: -7921088904588035439
+    second: Crocodile Sprite Sheet_44
+  - first:
+      213: -6311022072136945151
+    second: Crocodile Sprite Sheet_45
+  - first:
+      213: -456562841045858716
+    second: Crocodile Sprite Sheet_46
+  - first:
+      213: 8511811679146560573
+    second: Crocodile Sprite Sheet_47
+  - first:
+      213: 3623577070502918920
+    second: Crocodile Sprite Sheet_48
+  - first:
+      213: 8475890009890252498
+    second: Crocodile Sprite Sheet_49
+  - first:
+      213: -7292676786900315474
+    second: Crocodile Sprite Sheet_50
+  - first:
+      213: 2047873433082100509
+    second: Crocodile Sprite Sheet_51
+  - first:
+      213: 4456585939765310596
+    second: Crocodile Sprite Sheet_52
+  - first:
+      213: 2377204860129428311
+    second: Crocodile Sprite Sheet_53
+  - first:
+      213: -5120715185418849100
+    second: Crocodile Sprite Sheet_54
+  - first:
+      213: -5543780821442561136
+    second: Crocodile Sprite Sheet_55
+  - first:
+      213: 3759980120399039684
+    second: Crocodile Sprite Sheet_56
+  - first:
+      213: -8864816513470226270
+    second: Crocodile Sprite Sheet_57
+  - first:
+      213: 2883415538118316400
+    second: Crocodile Sprite Sheet_58
+  - first:
+      213: -777580089146741316
+    second: Crocodile Sprite Sheet_59
+  - first:
+      213: -4662814484344150451
+    second: Crocodile Sprite Sheet_60
+  - first:
+      213: -1514067264938175446
+    second: Crocodile Sprite Sheet_61
+  - first:
+      213: -7069656955339602222
+    second: Crocodile Sprite Sheet_62
+  - first:
+      213: -2526166003187081971
+    second: Crocodile Sprite Sheet_63
+  - first:
+      213: -923098345310711245
+    second: Crocodile Sprite Sheet_64
+  - first:
+      213: 1242971153468767060
+    second: Crocodile Sprite Sheet_65
+  - first:
+      213: -7425935166032799007
+    second: Crocodile Sprite Sheet_66
+  - first:
+      213: 3009477542644226010
+    second: Crocodile Sprite Sheet_67
+  - first:
+      213: 8523386686435851777
+    second: Crocodile Sprite Sheet_68
+  - first:
+      213: -7360325939071785527
+    second: Crocodile Sprite Sheet_69
+  - first:
+      213: -512169059216312891
+    second: Crocodile Sprite Sheet_70
+  - first:
+      213: 2681319859423872068
+    second: Crocodile Sprite Sheet_71
+  - first:
+      213: -2594202843563614704
+    second: Crocodile Sprite Sheet_72
+  - first:
+      213: -6403646487260160773
+    second: Crocodile Sprite Sheet_73
+  - first:
+      213: -1709303631127019466
+    second: Crocodile Sprite Sheet_74
+  - first:
+      213: -541432716938283584
+    second: Crocodile Sprite Sheet_75
+  - first:
+      213: 8179506200221888264
+    second: Crocodile Sprite Sheet_76
+  - first:
+      213: -2358705414228309387
+    second: Crocodile Sprite Sheet_77
+  - first:
+      213: 793711352587698023
+    second: Crocodile Sprite Sheet_78
+  - first:
+      213: 4637195982139228361
+    second: Crocodile Sprite Sheet_79
+  - first:
+      213: 4188596522558601092
+    second: Crocodile Sprite Sheet_80
+  - first:
+      213: 5101321355080692004
+    second: Crocodile Sprite Sheet_81
+  - first:
+      213: -6476268622427229172
+    second: Crocodile Sprite Sheet_82
+  - first:
+      213: 3416976686654138936
+    second: Crocodile Sprite Sheet_83
+  - first:
+      213: -3917036151445970011
+    second: Crocodile Sprite Sheet_84
+  - first:
+      213: -5713902698874876174
+    second: Crocodile Sprite Sheet_85
+  - first:
+      213: 8173146836172643996
+    second: Crocodile Sprite Sheet_86
+  - first:
+      213: -3101435102813292327
+    second: Crocodile Sprite Sheet_87
+  - first:
+      213: -7801983338838792653
+    second: Crocodile Sprite Sheet_88
+  - first:
+      213: -5742720228739447703
+    second: Crocodile Sprite Sheet_89
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Crocodile Sprite Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 726
+        width: 70
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03a3eb2c24479a8c0800000000000000
+      internalID: -3987528164975953360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crocodile Sprite Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 726
+        width: 70
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6062d40e4ba93250800000000000000
+      internalID: 5924955136359293036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crocodile Sprite Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 726
+        width: 71
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1511e34bbf49b380800000000000000
+      internalID: -8955038718333217509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crocodile Sprite Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 726
+        width: 69
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 642d09966071f7cf0800000000000000
+      internalID: -252457737801117114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crocodile Sprite Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 726
+        width: 66
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f421c4f02c75c9f10800000000000000
+      internalID: 2277792002534543951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crocodile Sprite Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 726
+        width: 67
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61d2b563ef37992b0800000000000000
+      internalID: -5577299127850816234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crocodile Sprite Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 662
+        width: 70
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c9c720bb037ec780800000000000000
+      internalID: -8660858539349653052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crocodile Sprite Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 662
+        width: 70
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bf4f2e4b98d82920800000000000000
+      internalID: 2965858516166725559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crocodile Sprite Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 662
+        width: 70
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c460f8dd6cd41f420800000000000000
+      internalID: 2661994371268675148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crocodile Sprite Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 662
+        width: 70
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5cb477664dca3cc0800000000000000
+      internalID: -3730443639055926180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crocodile Sprite Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 662
+        width: 70
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4dfd9c6437118ea0800000000000000
+      internalID: -5872386925186384566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crocodile Sprite Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 662
+        width: 70
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26aae7eb1ae2b4e40800000000000000
+      internalID: 5641654230432262754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crocodile Sprite Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 598
+        width: 70
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56ac82af1efeb2d70800000000000000
+      internalID: 9019566432583207525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crocodile Sprite Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 598
+        width: 70
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 936ca1488119f1790800000000000000
+      internalID: -7557162115222813127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crocodile Sprite Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 598
+        width: 70
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 466e73b15655c6d90800000000000000
+      internalID: -7103208619533408668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crocodile Sprite Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 598
+        width: 71
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5d1a448a231b4a10800000000000000
+      internalID: 1894629141568429407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crocodile Sprite Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 598
+        width: 69
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cfd8935916894ee0800000000000000
+      internalID: -1276341576047992893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crocodile Sprite Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 598
+        width: 74
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 998808c14a1a2a960800000000000000
+      internalID: 7611824046434453657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crocodile Sprite Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 598
+        width: 70
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 084e9e6407a156e30800000000000000
+      internalID: 4496028872527701120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crocodile Sprite Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 598
+        width: 70
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ee2bf02accc08470800000000000000
+      internalID: 8394934873927397097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crocodile Sprite Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 534
+        width: 70
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5025ca0b4a66c980800000000000000
+      internalID: -8519004774588932001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crocodile Sprite Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 534
+        width: 64
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af86e9a98a5abc6f0800000000000000
+      internalID: -663254376539854598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crocodile Sprite Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 534
+        width: 66
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e300da4784d4abeb0800000000000000
+      internalID: -4703361887244582850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crocodile Sprite Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 534
+        width: 69
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0971bbf892244850800000000000000
+      internalID: 6360246614207068429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crocodile Sprite Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 534
+        width: 70
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ec09565d3394c3c0800000000000000
+      internalID: -4340182249227350808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crocodile Sprite Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 534
+        width: 70
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d139da483f6cae790800000000000000
+      internalID: -7499963480226819299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crocodile Sprite Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 534
+        width: 70
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31d9a16477054c510800000000000000
+      internalID: 1568467043439254803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crocodile Sprite Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 534
+        width: 70
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee6ab025ce2177ba0800000000000000
+      internalID: -6091379164797229330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crocodile Sprite Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 470
+        width: 70
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b98f583178b45bf0800000000000000
+      internalID: -336441275729344078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crocodile Sprite Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 470
+        width: 70
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0d5d93637884cbc0800000000000000
+      internalID: -3763733359401018101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crocodile Sprite Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 470
+        width: 70
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9fc5e45306e031b0800000000000000
+      internalID: -5678786228130558051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crocodile Sprite Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 470
+        width: 70
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4db440023e505d060800000000000000
+      internalID: 6977489670733319124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crocodile Sprite Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 470
+        width: 70
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04aab9cb80b405f70800000000000000
+      internalID: 9173914941849840192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crocodile Sprite Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 470
+        width: 70
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b37935cfa1b0efd80800000000000000
+      internalID: -8215116459746814149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crocodile Sprite Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 470
+        width: 70
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 817441f298ab84970800000000000000
+      internalID: 8739440175275591448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crocodile Sprite Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 470
+        width: 70
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5591b8042aacf340800000000000000
+      internalID: 4898977566413657437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crocodile Sprite Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 409
+        width: 77
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ab3e677a2e799230800000000000000
+      internalID: 3646084094190566312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crocodile Sprite Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 408
+        width: 75
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11a510a8b4668ecc0800000000000000
+      internalID: -3681580220751455727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crocodile Sprite Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 408
+        width: 64
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6623fcee010776b0800000000000000
+      internalID: -5298765272961571219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crocodile Sprite Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 408
+        width: 66
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8ffa2ed4c3369240800000000000000
+      internalID: 4798079373643808653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crocodile Sprite Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 409
+        width: 67
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14c1ead8eea6a3550800000000000000
+      internalID: 6141338614684851265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crocodile Sprite Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 409
+        width: 69
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31942c1777350d9e0800000000000000
+      internalID: -1598686095241754349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crocodile Sprite Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 409
+        width: 71
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ca15ed649160b070800000000000000
+      internalID: 8120097418275789512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crocodile Sprite Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 409
+        width: 71
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 870bbce08c3cad310800000000000000
+      internalID: 1430671095652659320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crocodile Sprite Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 346
+        width: 65
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19afdb7eb93a21290800000000000000
+      internalID: -7921088904588035439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crocodile Sprite Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 346
+        width: 64
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 102b0a4dcdeba68a0800000000000000
+      internalID: -6311022072136945151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crocodile Sprite Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 346
+        width: 65
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46681d9d386f9a9f0800000000000000
+      internalID: -456562841045858716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crocodile Sprite Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 346
+        width: 67
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3c4d8aef97002670800000000000000
+      internalID: 8511811679146560573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crocodile Sprite Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 346
+        width: 66
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80bb397a528894230800000000000000
+      internalID: 3623577070502918920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crocodile Sprite Sheet_49
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 346
+        width: 66
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d66aca8e0960a570800000000000000
+      internalID: 8475890009890252498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crocodile Sprite Sheet_50
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 346
+        width: 65
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea2d11fb9153bca90800000000000000
+      internalID: -7292676786900315474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crocodile Sprite Sheet_51
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 346
+        width: 65
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1b71db89028b6c10800000000000000
+      internalID: 2047873433082100509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crocodile Sprite Sheet_52
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 282
+        width: 64
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48436badc49f8dd30800000000000000
+      internalID: 4456585939765310596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crocodile Sprite Sheet_53
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 282
+        width: 64
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 753c85ea9378df020800000000000000
+      internalID: 2377204860129428311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crocodile Sprite Sheet_54
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 282
+        width: 67
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b439296ba09fe8b0800000000000000
+      internalID: -5120715185418849100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crocodile Sprite Sheet_55
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 282
+        width: 69
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09bfa4117b88013b0800000000000000
+      internalID: -5543780821442561136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crocodile Sprite Sheet_56
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 282
+        width: 62
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cc4aee8ff12e2430800000000000000
+      internalID: 3759980120399039684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crocodile Sprite Sheet_57
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 282
+        width: 79
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a0279b4958d9f480800000000000000
+      internalID: -8864816513470226270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crocodile Sprite Sheet_58
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 282
+        width: 69
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0715269a723f30820800000000000000
+      internalID: 2883415538118316400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crocodile Sprite Sheet_59
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 282
+        width: 64
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbdedf9570b7535f0800000000000000
+      internalID: -777580089146741316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crocodile Sprite Sheet_60
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 218
+        width: 65
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d46ee1f5eea5a4fb0800000000000000
+      internalID: -4662814484344150451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crocodile Sprite Sheet_61
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 217
+        width: 65
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a24105b28d3fcfae0800000000000000
+      internalID: -1514067264938175446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crocodile Sprite Sheet_62
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 216
+        width: 67
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d60d1da47883ed90800000000000000
+      internalID: -7069656955339602222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crocodile Sprite Sheet_63
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 215
+        width: 69
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0d9d50876141fcd0800000000000000
+      internalID: -2526166003187081971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crocodile Sprite Sheet_64
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 214
+        width: 73
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 332110b12fe7033f0800000000000000
+      internalID: -923098345310711245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crocodile Sprite Sheet_65
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 215
+        width: 74
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45b3094bdabef3110800000000000000
+      internalID: 1242971153468767060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crocodile Sprite Sheet_66
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 214
+        width: 76
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ea988f8f47c1f890800000000000000
+      internalID: -7425935166032799007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crocodile Sprite Sheet_67
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 218
+        width: 73
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad713d051efc3c920800000000000000
+      internalID: 3009477542644226010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crocodile Sprite Sheet_68
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 154
+        width: 64
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10e7d405807294670800000000000000
+      internalID: 8523386686435851777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crocodile Sprite Sheet_69
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 152
+        width: 65
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c5688a1e8edad990800000000000000
+      internalID: -7360325939071785527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crocodile Sprite Sheet_70
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 151
+        width: 65
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c5377844f864e8f0800000000000000
+      internalID: -512169059216312891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crocodile Sprite Sheet_71
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 150
+        width: 64
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4440926b436f53520800000000000000
+      internalID: 2681319859423872068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crocodile Sprite Sheet_72
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 154
+        width: 65
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01e151a224a8ffbd0800000000000000
+      internalID: -2594202843563614704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crocodile Sprite Sheet_73
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 149
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfc1ea3a27da127a0800000000000000
+      internalID: -6403646487260160773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crocodile Sprite Sheet_74
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 149
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 630836d57655748e0800000000000000
+      internalID: -1709303631127019466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crocodile Sprite Sheet_75
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 148
+        width: 67
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c57e1500d17c78f0800000000000000
+      internalID: -541432716938283584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crocodile Sprite Sheet_76
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 148
+        width: 68
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80fa45e5d81738170800000000000000
+      internalID: 8179506200221888264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crocodile Sprite Sheet_77
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 150
+        width: 68
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57a81273ce1344fd0800000000000000
+      internalID: -2358705414228309387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crocodile Sprite Sheet_78
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 26
+        width: 156
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76f3f291544d30b00800000000000000
+      internalID: 793711352587698023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crocodile Sprite Sheet_79
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 90
+        width: 63
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c007454d21aa5040800000000000000
+      internalID: 4637195982139228361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crocodile Sprite Sheet_80
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 90
+        width: 64
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 487ba8a5852e02a30800000000000000
+      internalID: 4188596522558601092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crocodile Sprite Sheet_81
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 90
+        width: 58
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 421f2b69eb88bc640800000000000000
+      internalID: 5101321355080692004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crocodile Sprite Sheet_82
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 90
+        width: 57
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c04773a200caf16a0800000000000000
+      internalID: -6476268622427229172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crocodile Sprite Sheet_83
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 90
+        width: 51
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83aafcd413a8b6f20800000000000000
+      internalID: 3416976686654138936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crocodile Sprite Sheet_84
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 26
+        width: 154
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a323b4af54e3a9c0800000000000000
+      internalID: -3917036151445970011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crocodile Sprite Sheet_85
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 26
+        width: 51
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2feca68d4c324b0b0800000000000000
+      internalID: -5713902698874876174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crocodile Sprite Sheet_86
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 26
+        width: 56
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9e9d2b8eb9dc6170800000000000000
+      internalID: 8173146836172643996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crocodile Sprite Sheet_87
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 26
+        width: 57
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d8f2e2c43d75f4d0800000000000000
+      internalID: -3101435102813292327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crocodile Sprite Sheet_88
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 26
+        width: 61
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3366ff07d79c9b390800000000000000
+      internalID: -7801983338838792653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crocodile Sprite Sheet_89
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 26
+        width: 62
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9640981d062cd40b0800000000000000
+      internalID: -5742720228739447703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Crocodile Sprite Sheet_0: -3987528164975953360
+      Crocodile Sprite Sheet_1: 5924955136359293036
+      Crocodile Sprite Sheet_10: -5872386925186384566
+      Crocodile Sprite Sheet_11: 5641654230432262754
+      Crocodile Sprite Sheet_12: 9019566432583207525
+      Crocodile Sprite Sheet_13: -7557162115222813127
+      Crocodile Sprite Sheet_14: -7103208619533408668
+      Crocodile Sprite Sheet_15: 1894629141568429407
+      Crocodile Sprite Sheet_16: -1276341576047992893
+      Crocodile Sprite Sheet_17: 7611824046434453657
+      Crocodile Sprite Sheet_18: 4496028872527701120
+      Crocodile Sprite Sheet_19: 8394934873927397097
+      Crocodile Sprite Sheet_2: -8955038718333217509
+      Crocodile Sprite Sheet_20: -8519004774588932001
+      Crocodile Sprite Sheet_21: -663254376539854598
+      Crocodile Sprite Sheet_22: -4703361887244582850
+      Crocodile Sprite Sheet_23: 6360246614207068429
+      Crocodile Sprite Sheet_24: -4340182249227350808
+      Crocodile Sprite Sheet_25: -7499963480226819299
+      Crocodile Sprite Sheet_26: 1568467043439254803
+      Crocodile Sprite Sheet_27: -6091379164797229330
+      Crocodile Sprite Sheet_28: -336441275729344078
+      Crocodile Sprite Sheet_29: -3763733359401018101
+      Crocodile Sprite Sheet_3: -252457737801117114
+      Crocodile Sprite Sheet_30: -5678786228130558051
+      Crocodile Sprite Sheet_31: 6977489670733319124
+      Crocodile Sprite Sheet_32: 9173914941849840192
+      Crocodile Sprite Sheet_33: -8215116459746814149
+      Crocodile Sprite Sheet_34: 8739440175275591448
+      Crocodile Sprite Sheet_35: 4898977566413657437
+      Crocodile Sprite Sheet_36: 3646084094190566312
+      Crocodile Sprite Sheet_37: -3681580220751455727
+      Crocodile Sprite Sheet_38: -5298765272961571219
+      Crocodile Sprite Sheet_39: 4798079373643808653
+      Crocodile Sprite Sheet_4: 2277792002534543951
+      Crocodile Sprite Sheet_40: 6141338614684851265
+      Crocodile Sprite Sheet_41: -1598686095241754349
+      Crocodile Sprite Sheet_42: 8120097418275789512
+      Crocodile Sprite Sheet_43: 1430671095652659320
+      Crocodile Sprite Sheet_44: -7921088904588035439
+      Crocodile Sprite Sheet_45: -6311022072136945151
+      Crocodile Sprite Sheet_46: -456562841045858716
+      Crocodile Sprite Sheet_47: 8511811679146560573
+      Crocodile Sprite Sheet_48: 3623577070502918920
+      Crocodile Sprite Sheet_49: 8475890009890252498
+      Crocodile Sprite Sheet_5: -5577299127850816234
+      Crocodile Sprite Sheet_50: -7292676786900315474
+      Crocodile Sprite Sheet_51: 2047873433082100509
+      Crocodile Sprite Sheet_52: 4456585939765310596
+      Crocodile Sprite Sheet_53: 2377204860129428311
+      Crocodile Sprite Sheet_54: -5120715185418849100
+      Crocodile Sprite Sheet_55: -5543780821442561136
+      Crocodile Sprite Sheet_56: 3759980120399039684
+      Crocodile Sprite Sheet_57: -8864816513470226270
+      Crocodile Sprite Sheet_58: 2883415538118316400
+      Crocodile Sprite Sheet_59: -777580089146741316
+      Crocodile Sprite Sheet_6: -8660858539349653052
+      Crocodile Sprite Sheet_60: -4662814484344150451
+      Crocodile Sprite Sheet_61: -1514067264938175446
+      Crocodile Sprite Sheet_62: -7069656955339602222
+      Crocodile Sprite Sheet_63: -2526166003187081971
+      Crocodile Sprite Sheet_64: -923098345310711245
+      Crocodile Sprite Sheet_65: 1242971153468767060
+      Crocodile Sprite Sheet_66: -7425935166032799007
+      Crocodile Sprite Sheet_67: 3009477542644226010
+      Crocodile Sprite Sheet_68: 8523386686435851777
+      Crocodile Sprite Sheet_69: -7360325939071785527
+      Crocodile Sprite Sheet_7: 2965858516166725559
+      Crocodile Sprite Sheet_70: -512169059216312891
+      Crocodile Sprite Sheet_71: 2681319859423872068
+      Crocodile Sprite Sheet_72: -2594202843563614704
+      Crocodile Sprite Sheet_73: -6403646487260160773
+      Crocodile Sprite Sheet_74: -1709303631127019466
+      Crocodile Sprite Sheet_75: -541432716938283584
+      Crocodile Sprite Sheet_76: 8179506200221888264
+      Crocodile Sprite Sheet_77: -2358705414228309387
+      Crocodile Sprite Sheet_78: 793711352587698023
+      Crocodile Sprite Sheet_79: 4637195982139228361
+      Crocodile Sprite Sheet_8: 2661994371268675148
+      Crocodile Sprite Sheet_80: 4188596522558601092
+      Crocodile Sprite Sheet_81: 5101321355080692004
+      Crocodile Sprite Sheet_82: -6476268622427229172
+      Crocodile Sprite Sheet_83: 3416976686654138936
+      Crocodile Sprite Sheet_84: -3917036151445970011
+      Crocodile Sprite Sheet_85: -5713902698874876174
+      Crocodile Sprite Sheet_86: 8173146836172643996
+      Crocodile Sprite Sheet_87: -3101435102813292327
+      Crocodile Sprite Sheet_88: -7801983338838792653
+      Crocodile Sprite Sheet_89: -5742720228739447703
+      Crocodile Sprite Sheet_9: -3730443639055926180
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

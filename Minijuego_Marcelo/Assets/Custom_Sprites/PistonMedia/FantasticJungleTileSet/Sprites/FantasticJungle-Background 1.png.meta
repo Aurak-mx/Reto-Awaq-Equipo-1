@@ -1,13 +1,5 @@
 fileFormatVersion: 2
 guid: 873c049e3781aa90ea3e031f8a6a8335
-AssetOrigin:
-  serializedVersion: 1
-  productId: 260235
-  packageName: Fantastic Jungle Pixel Art Set
-  packageVersion: 1.1
-  assetPath: Assets/PistonMedia/FantasticJungleTileSet/Sprites/FantasticJungle-Background
-    1.png
-  uploadId: 828944
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -203,8 +195,8 @@ TextureImporter:
         y: 0
         width: 44
         height: 95
-      alignment: 9
-      pivot: {x: 0.5, y: 0.48421055}
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -375,3 +367,11 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 260235
+  packageName: Fantastic Jungle Pixel Art Set
+  packageVersion: 1.1
+  assetPath: Assets/PistonMedia/FantasticJungleTileSet/Sprites/FantasticJungle-Background
+    1.png
+  uploadId: 828944

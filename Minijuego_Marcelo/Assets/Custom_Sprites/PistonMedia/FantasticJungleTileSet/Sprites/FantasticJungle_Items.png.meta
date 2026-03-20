@@ -1,12 +1,5 @@
 fileFormatVersion: 2
 guid: 69625bf698e55e3b2ad72f4de3c2fb7b
-AssetOrigin:
-  serializedVersion: 1
-  productId: 260235
-  packageName: Fantastic Jungle Pixel Art Set
-  packageVersion: 1.1
-  assetPath: Assets/PistonMedia/FantasticJungleTileSet/Sprites/FantasticJungle_Items.png
-  uploadId: 828944
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -1065,8 +1058,8 @@ TextureImporter:
         y: 128
         width: 62
         height: 73
-      alignment: 9
-      pivot: {x: 0.5, y: 0.49315068}
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2583,8 +2576,8 @@ TextureImporter:
         y: 139
         width: 16
         height: 47
-      alignment: 9
-      pivot: {x: 0.5, y: 0.48936167}
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2752,3 +2745,10 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 260235
+  packageName: Fantastic Jungle Pixel Art Set
+  packageVersion: 1.1
+  assetPath: Assets/PistonMedia/FantasticJungleTileSet/Sprites/FantasticJungle_Items.png
+  uploadId: 828944
